@@ -1,6 +1,6 @@
 ---
 name: land-of-hope-locked-visual-style
-description: "THE OFFICIALLY LOCKED visual style for the Land of Hope trailer (final 2026-05-29) — TWO-BLOCK structure: SHARED STYLE block (premium painterly 3D animated feature base register) + SOFT CINEMATIC LIGHTING block (restrained naturalistic light/color override). Drop-in at the START of EVERY GPT Image 2 prompt for the trailer."
+description: "THE DEFAULT image-gen visual style — TWO-BLOCK structure (SHARED STYLE + SOFT CINEMATIC LIGHTING). Originally locked for Land of Hope trailer (2026-05-29), RE-CONFIRMED 2026-06-05 as universal default for ALL image prompts ('pls use this prompt always when generate for image'). Auto-paste both blocks verbatim at the START of EVERY GPT Image 2 / Higgsfield image prompt unless user opts out."
 metadata:
   node_type: memory
   type: project
@@ -12,7 +12,9 @@ metadata:
 - The "clean soft natural daylight" prose block (early 2026-05-28 lock)
 - The "STYLE LOCK — match the painterly cinematic Puss in Boots register" block (mid-session iteration)
 
-**Apply this two-block structure VERBATIM at the START of every Land of Hope GPT Image 2 prompt going forward. Both blocks together — block 1 sets the premium painterly base register, block 2 dials in the actual lighting/color/atmosphere as soft & naturalistic (overriding any "dramatic chiaroscuro" tendency from block 1).**
+**RE-CONFIRMED 2026-06-05** — user explicitly directed: **"pls use this prompt always when generate for image"** and asked me to keep it locked in memory. This is now treated as the **DEFAULT universal image-gen style** for any image prompt generated for the user (not just Land of Hope) — auto-paste both blocks verbatim at the START unless the user specifically opts out of the locked style for a particular shot.
+
+**Apply this two-block structure VERBATIM at the START of every GPT Image 2 / Higgsfield image prompt going forward. Both blocks together — block 1 sets the premium painterly base register, block 2 dials in the actual lighting/color/atmosphere as soft & naturalistic (overriding any "dramatic chiaroscuro" tendency from block 1).**
 
 ---
 

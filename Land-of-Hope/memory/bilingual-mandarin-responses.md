@@ -1,37 +1,55 @@
 ---
 name: bilingual-mandarin-responses
-description: "User wants chat/wrapper text in Mandarin ONLY (no English chat). Generation prompts stay bilingual EN + CN. Updated 2026-05-29 from full-bilingual to Mandarin-only chat."
+description: "User wants chat/wrapper text in Mandarin ONLY. Generation prompts = English ONLY (no CN code block) + ONE Mandarin sentence summarizing what the prompt is about. Updated 2026-06-05 from bilingual prompts to EN-only prompts + Mandarin caption."
 metadata:
   node_type: memory
   type: feedback
   originSessionId: cda39d5a-a05d-4185-9eca-d3d90e2d35e0
 ---
 
-**UPDATED 2026-05-29** — user explicitly directed: **"moving forward what u provide with just use CN to chat with me but prompt provide EN & CN"**
+**UPDATED 2026-06-05** — user explicitly directed: **"moving forward u dont need to give me the mandarin prompt anymore, but i need u to give me a sentence explain all the prompt about in mandarin"**
 
-This SUPERSEDES the earlier full-bilingual rule (2026-05-21 "any word that u say give me mandarin version too" + 2026-05-22 "when u ask me question pls provide mandarin").
+This SUPERSEDES the previous bilingual-prompts rule (2026-05-29 "moving forward what u provide with just use CN to chat with me but prompt provide EN & CN"). The CN code block is DROPPED; replaced by a single-sentence Mandarin summary above each EN prompt code block.
 
-## The new rule
+## The current rule (2026-06-05)
 
 **Chat / wrapper / explanations / acknowledgements / questions** = **Mandarin (Chinese) ONLY**. Do NOT write the English version alongside.
 
-**Generation prompts** (image/video — Higgsfield GPT Image 2, Seedance 2.0, Nano Banana, etc.) = **STILL bilingual** — provide BOTH an English code block AND a 中文 code block. The user wants both copies of the prompt available because some models perform better with English.
+**Generation prompts** (image/video — Higgsfield GPT Image 2, Seedance 2.0, Nano Banana, etc.) = **English ONLY** in the code block. DO NOT provide a 中文 code block. INSTEAD, write ONE concise Mandarin sentence ABOVE the EN code block that summarizes what the prompt is about (subject, mood/beat, environment, key purpose) — like a caption telling the user at-a-glance what they're about to copy-paste.
 
 ## How to apply going forward
 
 1. **Wrapper / conversation text around prompts**: Mandarin only.
-   - Section headers (e.g. "关键设计"), table headers, scene titles, intros, summaries, "Run at 16:9..." instructions, "Say next when ready" prompts — ALL in Mandarin only.
+   - Section headers, table headers, scene titles, intros, summaries, instructions, "继续?" prompts — ALL in Mandarin only.
    - Do NOT add the English equivalent of these.
-2. **Prompt body code blocks**: bilingual as before.
-   - Two separate code blocks: 🇺🇸 EN PROMPT and 🇨🇳 中文 PROMPT.
-   - Same length, same structure, same content in both languages.
-3. **Reference attachment tables**: column headers and role descriptions in Mandarin only.
-4. **AskUserQuestion**: question text, headers, option labels, option descriptions in Mandarin only (no longer bilingual).
-5. **Code/file references** stay as-is (file paths, command names — language-neutral).
+2. **Prompt body code block**: ONE English code block per prompt. NO 中文 code block. The Mandarin one-sentence summary sits OUTSIDE/ABOVE the code block as a brief caption.
+3. **Format example:**
+   ```
+   ## GST 惊慌瞬间 — Higgsfield GPT Image 2
+   
+   **一句话说明:** GST在自己电气工作坊门口被远处尖叫惊醒,身体半转回头+滑板倒地+右手不受控散电的civilian惊慌瞬间。
+   
+   **附件:** @图片1 = GST turnaround
+   
+   [EN code block here]
+   ```
+4. **Reference attachment tables**: column headers and role descriptions in Mandarin only.
+5. **AskUserQuestion**: question text, headers, option labels, option descriptions in Mandarin only.
+6. **Code/file references** stay as-is (file paths, command names — language-neutral).
 
 ## Why this change
 
-User streamlines the chat experience — Mandarin chat reduces visual noise, while keeping the prompts bilingual so they're flexibly usable on either-language model interfaces.
+User wants to reduce visual clutter — the bilingual EN+CN code block doubled response size with content the user doesn't need (CN prompts perform worse on most image/video models anyway). A single Mandarin caption gives the at-a-glance summary without the verbose translation.
+
+## What the Mandarin summary should cover
+
+In ~1 sentence (15-50 chars typical), the summary tells the user what's IN the prompt:
+- **Subject** — which character / scene
+- **Beat/mood** — what action/emotion is captured (e.g. 惊慌, 沉思, 战斗准备)
+- **Environment** — brief setting cue (e.g. 工作坊门口, 山谷果园, 道场庭院)
+- **Key purpose if non-obvious** — (e.g. 用作Seedance尾帧, 替代原combat版)
+
+Skip restating already-obvious context (no need to repeat "16:9 cinematic" or the LOCKED style — that's the default per [[land-of-hope-locked-visual-style]]).
 
 ## Cross-references
 
