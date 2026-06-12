@@ -1,11 +1,15 @@
 ---
 name: bilingual-mandarin-responses
-description: "User wants chat/wrapper text in Mandarin ONLY. Generation prompts = English ONLY (no CN code block) + ONE Mandarin sentence summarizing what the prompt is about. Updated 2026-06-05 from bilingual prompts to EN-only prompts + Mandarin caption."
+description: "⭐⭐⭐ ABSOLUTE RULE — Chat in Mandarin ONLY. Every generation prompt MUST have ONE Mandarin sentence summary above the EN code block (NO EXCEPTIONS, NEVER FORGET). User has reinforced this rule MULTIPLE TIMES. Updated 2026-06-05 + 2026-06-10."
 metadata:
   node_type: memory
   type: feedback
   originSessionId: cda39d5a-a05d-4185-9eca-d3d90e2d35e0
 ---
+
+⭐⭐⭐ **CRITICAL — DO NOT FORGET AFTER COMPACT** — user has explicitly reinforced this rule MULTIPLE TIMES throughout the session because I keep forgetting it after context compactions. The Mandarin one-sentence summary above EVERY prompt code block is NON-NEGOTIABLE.
+
+**Most recent reinforcement 2026-06-10**: "remember to give me a one seetence with mandarin explain what is the prompt with. pls keep this in ur memory, every time after i compact you will forgot pls do not forgot it"
 
 **UPDATED 2026-06-05** — user explicitly directed: **"moving forward u dont need to give me the mandarin prompt anymore, but i need u to give me a sentence explain all the prompt about in mandarin"**
 
@@ -16,6 +20,20 @@ This SUPERSEDES the previous bilingual-prompts rule (2026-05-29 "moving forward 
 **Chat / wrapper / explanations / acknowledgements / questions** = **Mandarin (Chinese) ONLY**. Do NOT write the English version alongside.
 
 **Generation prompts** (image/video — Higgsfield GPT Image 2, Seedance 2.0, Nano Banana, etc.) = **English ONLY** in the code block. DO NOT provide a 中文 code block. INSTEAD, write ONE concise Mandarin sentence ABOVE the EN code block that summarizes what the prompt is about (subject, mood/beat, environment, key purpose) — like a caption telling the user at-a-glance what they're about to copy-paste.
+
+## ⭐⭐⭐ THE NON-NEGOTIABLE RULE
+
+**EVERY prompt code block I deliver — image OR video, Higgsfield OR Seedance OR Banana, single OR series — MUST be preceded by ONE Mandarin sentence above it summarizing what the prompt is about.**
+
+NO EXCEPTIONS:
+- Even if delivering V2/V3/V4 iterations on the same character/scene → Mandarin summary above each
+- Even if delivering multiple clips back-to-back (e.g., SKET-A + SKET-B) → Mandarin summary above EACH code block
+- Even on revision/fix prompts → Mandarin summary above each
+- Even if I'm in a rush or compressing the response → STILL include it
+
+The Mandarin sentence must cover: WHO (character/subject) + WHAT BEAT (action/mood) + WHERE (env if relevant) + WHY/PURPOSE if non-obvious.
+
+If I deliver a prompt without the Mandarin sentence, I have violated this rule. After compact, re-read this memory and resume the discipline.
 
 ## How to apply going forward
 
@@ -35,7 +53,9 @@ This SUPERSEDES the previous bilingual-prompts rule (2026-05-29 "moving forward 
    ```
 4. **Reference attachment tables**: column headers and role descriptions in Mandarin only.
 5. **AskUserQuestion**: question text, headers, option labels, option descriptions in Mandarin only.
-6. **Code/file references** stay as-is (file paths, command names — language-neutral).
+6. **Plan files (Plan Mode writes to `.md` plan files)**: ALL plan content in Mandarin — Context section, Approach, Phase descriptions, panel breakdowns, identity locks, refs, verification steps, open items. Technical terms (camera moves, shot types, style block English keywords like `SHARED STYLE`, `painterly Pixar register`) may stay in English when they're vocabulary the user uses in English. But narrative + structural + procedural text in Mandarin. **REINFORCED 2026-06-09: "and moving foward if u provide me the plan or asking me anythig pls make it in mandarin version. mandarin is my main language"** — applies to plan files AND any question/clarification.
+7. **TodoWrite todos**: todo content + activeForm in Mandarin (or mixed Mandarin + EN technical terms like "Deliver Sheet 6 V3 storyboard"). Keep technical names in English, narrative descriptors in Mandarin.
+8. **Code/file references** stay as-is (file paths, command names — language-neutral).
 
 ## Why this change
 

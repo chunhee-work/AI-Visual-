@@ -1,6 +1,6 @@
 ---
 name: land-of-hope-locked-visual-style
-description: "THE DEFAULT image-gen visual style — TWO-BLOCK structure (SHARED STYLE + SOFT CINEMATIC LIGHTING). Originally locked for Land of Hope trailer (2026-05-29), RE-CONFIRMED 2026-06-05 as universal default for ALL image prompts ('pls use this prompt always when generate for image'). Auto-paste both blocks verbatim at the START of EVERY GPT Image 2 / Higgsfield image prompt unless user opts out."
+description: "THE DEFAULT image-gen visual style — TWO-BLOCK structure (SHARED STYLE + SOFT CINEMATIC LIGHTING). Originally locked for Land of Hope trailer (2026-05-29), RE-CONFIRMED 2026-06-05, RE-CONFIRMED AGAIN 2026-06-09 ('pls use this prompt for style lock as always, keep it in the memory') as universal default for ALL image prompts. Auto-paste both blocks verbatim at the START of EVERY GPT Image 2 / Higgsfield image prompt unless user opts out."
 metadata:
   node_type: memory
   type: project
@@ -13,6 +13,10 @@ metadata:
 - The "STYLE LOCK — match the painterly cinematic Puss in Boots register" block (mid-session iteration)
 
 **RE-CONFIRMED 2026-06-05** — user explicitly directed: **"pls use this prompt always when generate for image"** and asked me to keep it locked in memory. This is now treated as the **DEFAULT universal image-gen style** for any image prompt generated for the user (not just Land of Hope) — auto-paste both blocks verbatim at the START unless the user specifically opts out of the locked style for a particular shot.
+
+**RE-CONFIRMED AGAIN 2026-06-09** — user re-pasted the entire two-block style block verbatim and directed: **"pls use this prompt for style lock as always, keep it in the memory."** This is the third confirmation — the lock is absolute. The exact two-block text below MUST be pasted verbatim (no paraphrasing, no shortening, no omission of sub-sections) at the start of every Higgsfield/GPT Image 2 image prompt. If a future render comes out feeling too dramatic/theatrical/heavy, the fix is NEVER to alter Block 2 — it's already calibrated.
+
+**RE-CONFIRMED AGAIN 2026-06-11** — user re-pasted the entire two-block style verbatim AGAIN and directed: **"make sure u use this prompt at the begin when generate the storybaord"** — this is the FOURTH confirmation. Lock is permanent. Apply verbatim at the START of every storyboard sheet prompt going forward, no exceptions. If the synthesizer in a workflow produces a different style block opening, REPLACE it with this exact two-block verbatim before delivering to user.
 
 **Apply this two-block structure VERBATIM at the START of every GPT Image 2 / Higgsfield image prompt going forward. Both blocks together — block 1 sets the premium painterly base register, block 2 dials in the actual lighting/color/atmosphere as soft & naturalistic (overriding any "dramatic chiaroscuro" tendency from block 1).**
 
