@@ -11,6 +11,19 @@ metadata:
 
 **Most recent reinforcement 2026-06-10**: "remember to give me a one seetence with mandarin explain what is the prompt with. pls keep this in ur memory, every time after i compact you will forgot pls do not forgot it"
 
+**ADDITIONAL REINFORCEMENT 2026-06-16**: "remember to give me a mandarin sentence with what the prompt discover about moving forward. the start of the reply."
+
+⭐ **NEW LAYER 2026-06-16**: In ADDITION to the Mandarin sentence ABOVE EACH PROMPT CODE BLOCK, ALSO add a Mandarin opener sentence at the VERY START OF EVERY REPLY summarizing what the whole reply covers / what the prompts discover or change. This is a top-of-reply summary in addition to per-prompt summaries.
+
+Format example:
+```
+[Start of reply — Mandarin opener sentence summarizing reply contents/changes/discoveries]
+
+[Per-prompt Mandarin summary above each EN code block as before]
+
+[EN code block]
+```
+
 **UPDATED 2026-06-05** — user explicitly directed: **"moving forward u dont need to give me the mandarin prompt anymore, but i need u to give me a sentence explain all the prompt about in mandarin"**
 
 This SUPERSEDES the previous bilingual-prompts rule (2026-05-29 "moving forward what u provide with just use CN to chat with me but prompt provide EN & CN"). The CN code block is DROPPED; replaced by a single-sentence Mandarin summary above each EN prompt code block.
