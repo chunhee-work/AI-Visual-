@@ -1,0 +1,17 @@
+---
+name: cinematic-keyart-standard
+description: "The locked 'cinematic 3D feature-film' key-art render standard the user wants for the 10 mascots — Pixar/Disney-grade lighting + camera language, with the exact reusable prompt block"
+metadata:
+  node_type: memory
+  type: project
+  originSessionId: cda39d5a-a05d-4185-9eca-d3d90e2d35e0
+---
+
+A second locked render standard for the 10 mascots ([[game-environment-art-direction]], [[character-turnaround-style]]), for **cinematic hero / key-art / cutscene-still shots** (NOT the white-bg turnaround sheets). The user supplied a Pixar/Disney/DreamWorks-style reference (a stylized semi-realistic character in a courtroom with volumetric god rays, atmospheric haze, shallow-DOF bokeh crowd, warm filmic grade) and said "I want this standard… the extreme prompt extreme close with this standard, with each character."
+
+**The standard = rendering + lighting + camera language, NOT proportions.** Keep each character's established design + stylized proportions (chibi humans stay chibi; cats/frog/robot keep their designs) and wrap them in this look. Per-prompt: lead with `[SUBJECT in SETTING]` (character + a setting that fits their world + expression/pose), then the fixed block below. Vary only the key-light source per setting.
+
+Reusable fixed block (EN):
+"Medium: a still frame from a modern high-end 3D animated feature film — major-studio CGI character-animation quality, photoreal materials and lighting on a stylized character; a cinematic key frame. Character rendering: soft subsurface-scattering skin/surface with fine micro-detail, expressive soulful eyes with real moisture and crisp catchlights, hair/fur groomed strand by strand with flyaways and light through the edges, realistic fabric weave and worn materials. Lighting: dramatic motivated cinematic lighting — a strong warm directional key from [KEY LIGHT], volumetric god-ray light shafts through a hazy, dust-filled atmosphere, soft cool bounce fill, warm rim light separating subject from background, deep soft rich shadows, high dynamic range, chiaroscuro. Camera and lens: cinematic full-frame ~50mm, shallow depth of field with the subject tack-sharp and the background in creamy soft bokeh, a slightly low eye-level hero composition, subtle vignette, faint anamorphic feel, fine film grain, filmic color grade — warm amber mid-tones, softly desaturated, gentle contrast, slightly cool shadows; cinematic camera language with a strong emotional, narrative feel. Quality: ultra-detailed, 8K, ray-traced global illumination, volumetric atmosphere and depth — a frame pulled straight from an animated feature film."
+
+**How to apply:** Set frame to 2.39:1 or 16:9 in the Higgsfield UI (don't bake AR into the prompt). Attach the character's ref image for identity. Keep brand-neutral wording IN the prompt block (say "major-studio CGI feature" not the studio names) per banana-pro-director, though naming Pixar/Disney is fine in chat. Per-character settings used: coffee cat=cozy café golden hour; ECOX=futuristic infirmary, teal key; frog=misty boiler-room workshop; nurse=sunlit clinic ward; KETDONUT=dawn bakery, flour dust; lychee=golden-hour orchard, god rays through leaves; SKET=dusk convenience store, moody; scholar 自由=sunlit old library w/ dust motes (closest to ref); ramen=steamy late-night shop, lantern glow; GST=industrial workshop, sparks. Deliver bilingually EN + 中文 per [[bilingual-mandarin-responses]]. 10 cinematic prompts delivered 2026-05-22.
