@@ -135,7 +135,19 @@ CCATS's private steampunk research workshop where he develops the Coffee Hero Su
 Same DIVING GEAR INC. factory but at emergency-crisis moment. Central emergency lighthouse tower with pulsing red beacon light casting rotating alarm sweeps across the city. Sky turned menacing dark storm-red with fire glow. Explosions/fires visible across factory rooftops. Workers running in panic through streets (dark silhouettes). Steampunk clock towers still visible + smokestacks now venting emergency dark plumes. Wet reflective streets catching red beacon glow.
 
 ### 8. Punch Card Machine Canonical (S1-C04 CANONICAL) ⭐ LOCKED
-Vintage steampunk brass box mounted on brick pillar. TOP: aged brass plaque with "**TIME IN**" text (uppercase serif, aged patina). BELOW: rectangular DIGITAL DISPLAY window showing "**08:00 AM**" (vintage segment-style black digits on cream background). BOTTOM-FRONT: vertical rectangular card slot. ⭐ **RIGHT SIDE**: ornate brass LEVER HANDLE. Ornate brass rivets + copper piping accents + steampunk pipes + small brass gauge + tarnish patina + small steam vent. Card interaction: worker inserts card → pulls right-side lever → CLUNK-CLANK punch stamp → tiny steam puff → **card stays inside machine permanently** (never retrieved).
+Vintage steampunk brass box mounted on brick pillar. TOP: aged brass plaque with "**TIME IN**" text (uppercase serif, aged patina). BELOW: rectangular DIGITAL DISPLAY window showing "**08:00 AM**" (vintage segment-style black digits on cream background). BOTTOM-FRONT: vertical rectangular card slot. ⭐ **RIGHT SIDE**: ornate brass LEVER HANDLE. Ornate brass rivets + copper piping accents + steampunk pipes + small brass gauge + tarnish patina + small steam vent.
+
+**TWO-STEP INTERACTION MECHANIC (LOCKED):**
+1. Worker takes card from bib pocket
+2. **INSERTS** card into slot → card slides in only HALFWAY, remaining ~50% HANGS visibly OUT of slot (like envelope in mailbox)
+3. Worker **RELEASES** the card (paw no longer touches card — card hangs on its own by slot)
+4. Paw **MOVES ACROSS** to RIGHT-SIDE brass LEVER HANDLE
+5. **PULLS DOWN** the lever → at this moment card gets **SUCKED FULLY INSIDE** the machine (rapid vacuum motion, card disappears completely into slot)
+6. CLUNK-CLANK punch stamp sound + tiny steam puff from vent
+7. Slot now empty — **card stays inside machine permanently** (never retrieved)
+8. Worker walks forward past machine
+
+⚠️ Critical staging: BEFORE lever pull = card hanging halfway out + paw NOT on card. DURING lever pull = card sucked in. AFTER = slot empty.
 
 ---
 
@@ -199,11 +211,12 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 
 **Refs:** @Image1 = CCATS canonical + @Image2 = DIVING GEAR INC. dawn env plate
 
-### S1-C04 — CCATS Punch Card Station V2 CORRECTED (~5s)
-CCATS at punch-card time-clock in factory courtyard past gate. Punch card machine displays "TIME IN" + "08:00 AM" with right-side brass lever. Queue of ~6-8 diverse anthropomorphic worker cats lined up BEHIND CCATS (not beside, not clone faces, normal neutral emotion). CCATS inserts card → HARD CUT to macro close-up of paw pulling right-side lever → HARD CUT back to medium view, card stays inside machine permanently, CCATS walks forward past machine.
+### S1-C04 — CCATS Punch Card Station (~5s)
+**V3 (current):** CCATS at punch-card time-clock in factory courtyard past gate. Punch card machine displays "TIME IN" + "08:00 AM" with right-side brass lever. Queue of ~8 RADICALLY DIVERSE anthropomorphic worker cats lined up BEHIND CCATS (each a different breed — tuxedo, calico, russian blue, mackerel, siamese, spotted, persian, bicolor — all wearing mandatory newsboy caps, normal neutral emotion). **TWO-STEP PUNCH MECHANIC:** CCATS inserts card → card HANGS halfway out of slot + paw releases → paw moves to right-side lever → ⚡ HARD CUT ⚡ macro close-up of paw pulling lever → card SUCKED FULLY IN + CLUNK-CLANK + steam puff → ⚡ HARD CUT ⚡ back to medium view, slot empty, CCATS walks forward.
 
+**V2 rejected because:** Crowd cats still looked similar (not radically diverse), punch mechanic ambiguous (insert vs pull card-swallow timing unclear).
 **V1 rejected because:** Real photorealistic cat appeared, queue beside not behind, crowd cats had clone faces + dejected emotion.
-**V2 fixes:** All anthropomorphic + queue behind + distinct diverse breeds + neutral emotion + canonical machine design + card stays inside.
+**V3 fixes:** RADICAL breed diversity (8 explicit breeds) + mandatory hats for every cat + clear two-step mechanic (insert-halfway → paw-release → paw-to-lever → pull triggers swallow).
 
 **Refs:** @Image1 = dawn env (weather only) + @Image2 = CCATS canonical + @Image3 = punch card machine canonical
 
@@ -232,7 +245,8 @@ CCATS at punch-card time-clock in factory courtyard past gate. Punch card machin
 - ⛔ **NO real cats in scenes** — all cats must be stylized anthropomorphic (walking upright, wearing clothes)
 - ⛔ **NO face-to-camera** as default (use back/3-quarter/profile/silhouette/OTS)
 - ⛔ **NO tears** on any character — use posture/brow/mouth/breath/eyes for emotion
-- ⭐ **Crowd cats have DISTINCT faces** from hero (never clone hero face)
+- ⭐⭐⭐ **Crowd RADICAL diversity** — Each crowd cat MUST be a completely different breed with different fur color, face shape, size, and features. ⛔ NO two crowd cats look alike, ⛔ NO cat resembles the hero. List explicitly: tuxedo / calico / russian blue / mackerel / siamese / persian / bicolor / etc.
+- ⭐⭐⭐ **EVERY CROWD CAT MUST WEAR A HAT** — mandatory navy denim newsboy cap with brass paw-print button for all factory worker cats. ⛔ NO cat is hatless / bare-headed.
 - ⭐ **Crowd cats keep NEUTRAL NORMAL emotion** (never share hero's unique weariness/dejection)
 - ⭐ **Queue always BEHIND hero** (not beside, not in front)
 
@@ -251,7 +265,8 @@ CCATS at punch-card time-clock in factory courtyard past gate. Punch card machin
 ### Punch Card Machine ⭐ LOCKED CANONICAL
 - "TIME IN" plaque + "08:00 AM" digital display
 - Brass lever handle on RIGHT SIDE (never top, never left)
-- Card inserted → STAYS INSIDE permanently (never retrieved)
+- ⭐ TWO-STEP MECHANIC: (1) Card inserted HALFWAY hangs out of slot + paw releases → (2) Paw moves to right-side lever + pulls → card SUCKED IN fully swallowed on handle-pull
+- Card STAYS INSIDE permanently (never retrieved)
 
 ### Sign Board Text Locks
 - "NEVER STOP WORKING." (three stacked lines with period, aged red-brown chipped on cream-parchment)
@@ -282,6 +297,7 @@ CCATS at punch-card time-clock in factory courtyard past gate. Punch card machin
 - **2026-07-06**: Session working through Scene 1 Seedance clips one by one. Delivered S1-C01 through S1-C05. Established punch card machine canonical after V1 render rejection. Added 3 new memory rules: no-real-cats-in-anthro-scenes, crowd-neutral-vs-hero-unique-emotion, ccats-origin-punch-card-canonical. Created this master document.
 - **2026-07-06 (later)**: S1-C05 revised to V2 — expanded to 6.5s with 1.5s pure walk beat upfront + sign chain-snap drop-and-catch (near-fall) replacing simple tilt. More dramatic physical decay of the propaganda system.
 - **2026-07-06 (later)**: S1-C05 revised to V3 (~7s) — added CCATS look-up beat BEFORE sign drop to establish cause-and-effect narrative. He looks up → sign drops in response → he sighs → walks forward. Sequence: walk 1.5s → look up 1s → sign drop-and-catch 1.5s → sigh 1s → back-view dejected 2s.
+- **2026-07-06 (later)**: S1-C04 revised to V3 — punch card mechanic clarified to two-step (insert-halfway hang → paw-release → paw-to-lever → pull triggers card-swallow). Crowd rules strengthened to RADICAL diversity (8 explicit different breeds) + mandatory hats for every crowd cat. Updated memory rule crowd-neutral-vs-hero-unique-emotion with new radical-diversity + mandatory-hat requirements.
 
 ---
 
