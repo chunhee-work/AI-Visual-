@@ -207,8 +207,10 @@ CCATS at punch-card time-clock in factory courtyard past gate. Punch card machin
 
 **Refs:** @Image1 = dawn env (weather only) + @Image2 = CCATS canonical + @Image3 = punch card machine canonical
 
-### S1-C05 — Back-Follow + Sign Tilt + Face Sigh + Back Dejected (~5s)
-Back-view CCATS walking forward with worker crowd + NEVER STOP WORKING sign ahead in upper frame + sign slowly tilts 5° with CREEEEEEAK at ~00:01.5 → ⚡ HARD CUT to side-profile close-up beside CCATS + weary sigh + walks under sign → ⚡ HARD CUT back to back-view 垂头丧气 (head hung low + tail droop lower + heavier trudge) continuing forward.
+### S1-C05 — Back-Follow + Sign Drop-and-Catch + Face Sigh + Back Dejected
+**V2 (~6.5s):** Beat 1 (00:00-01.5): PURE back-view CCATS + crowd walking, no sign focus, establishing routine march. Beat 2 (00:01.5-03): 💥 ONE right-side iron chain SNAPS with LOUD METALLIC CLANG + sign SUDDENLY DROPS ~40cm right side + remaining left chains CATCH sign at severe 20° tilt SWAYING ominously with sustained chain groan + rust flakes shower. Sign does NOT fully fall — near-miss physical decay. CCATS + crowd unfazed continue trudging. Beat 3 (00:03-04.5): ⚡ HARD CUT ⚡ side-profile close-up beside CCATS + subtle eye flick up + weary sigh warm breath vapor + walks under swaying sign. Beat 4 (00:04.5-06.5): ⚡ HARD CUT ⚡ back to back-view 垂头丧气 dejected (head hung low + tail droop lower + heavier slower trudge) continuing deeper into factory.
+
+**V1 (~5s, superseded):** Sign slowly tilts 5° with CREEEEEEAK (no chain snap event).
 
 **Refs:** @Image1 = NEVER STOP WORKING plate + @Image2 = CCATS canonical
 
@@ -275,6 +277,7 @@ Back-view CCATS walking forward with worker crowd + NEVER STOP WORKING sign ahea
 ## 📝 SESSION LOG
 
 - **2026-07-06**: Session working through Scene 1 Seedance clips one by one. Delivered S1-C01 through S1-C05. Established punch card machine canonical after V1 render rejection. Added 3 new memory rules: no-real-cats-in-anthro-scenes, crowd-neutral-vs-hero-unique-emotion, ccats-origin-punch-card-canonical. Created this master document.
+- **2026-07-06 (later)**: S1-C05 revised to V2 — expanded to 6.5s with 1.5s pure walk beat upfront + sign chain-snap drop-and-catch (near-fall) replacing simple tilt. More dramatic physical decay of the propaganda system.
 
 ---
 
