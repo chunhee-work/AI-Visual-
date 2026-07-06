@@ -220,13 +220,14 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 
 **Refs:** @Image1 = dawn env (weather only) + @Image2 = CCATS canonical + @Image3 = punch card machine canonical
 
-### S1-C05 — Walk → Look Up → Sign Drop-and-Catch → Sigh → Back Dejected
-**V3 (~7s, current):** Beat 1 (00:00-01.5): PURE back-view CCATS + crowd walking. Beat 2 (00:01.5-02.5): ⚡ HARD CUT ⚡ to side-profile close-up + CCATS SUBTLY LOOKS UP at sign (head tilt up 15° + amber eyes flick up + fixed weary gaze). Beat 3 (00:02.5-04): 💥 SUDDEN LOUD CLANG — ONE right-side chain SNAPS + sign DROPS ~40cm + remaining left chains CATCH at 20° tilt swaying ominously + rust flakes shower (⚠️ near-fall, sign does NOT fully crash). Beat 4 (00:04-05): CCATS's weary sigh warm breath vapor + resumes forward trudge under swaying sign. Beat 5 (00:05-07): ⚡ HARD CUT ⚡ back to back-view 垂头丧气 dejected (head hung low + tail droop lower + heavier slower trudge) continuing deeper into factory.
+### S1-C05 — Walk → Look Up → Sign Drop-and-Catch → Hold → Sigh
+**V4 (~7s, current):** All from BACK-VIEW until final hard cut. Beat 1 (00:00-01.5): pure back-view CCATS + crowd walking. Beat 2 (00:01.5-02.5): SAME back-view + CCATS looks up (visible via cap crown tilting up 20° + ears rotating forward — face NOT revealed). Beat 3 (00:02.5-04): SAME back-view + 💥 chain SNAPS + sign DROPS 40cm + chains CATCH at 20° swaying (rust flakes shower past his silhouette). Beat 4 (00:04-05): SAME back-view + 1-SECOND HOLD — CCATS momentarily frozen still looking up + sign swaying + crowd flows past him (his unique pause vs crowd routine). Beat 5 (00:05-07): ⚡ HARD CUT ⚡ to side-profile close-up — weary sigh warm breath vapor + resume trudge under swaying sign (face is the emotional ending).
 
-**Key narrative logic:** CAUSE-AND-EFFECT sequence — CCATS looks up FIRST → sign drops SECOND → sigh THIRD. Sign literally responds to his gaze, symbolic weight of his recognition triggering propaganda decay.
+**Key changes vs V3:** Beats 1-4 (walk + look up + drop + hold) ALL in continuous back-view (V3 had face close-up for look-up). Added 1-second HOLD beat after drop before the face cut. Removed final back-view dejected ending — face-sigh is now the emotional ending. Only ONE hard cut total (V3 had two).
 
-**V2 (~6.5s, superseded):** No look-up before drop — sign dropped without CCATS acknowledging first.
-**V1 (~5s, superseded):** Sign slowly tilts 5° with CREEEEEEAK (no chain snap event).
+**V3 (~7s, superseded):** Hard cut to face for look-up, then drop happened in face view.
+**V2 (~6.5s, superseded):** No look-up before drop.
+**V1 (~5s, superseded):** Sign slowly tilts 5° with CREEEEEEAK.
 
 **Refs:** @Image1 = NEVER STOP WORKING plate + @Image2 = CCATS canonical
 
@@ -298,6 +299,7 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 - **2026-07-06 (later)**: S1-C05 revised to V2 — expanded to 6.5s with 1.5s pure walk beat upfront + sign chain-snap drop-and-catch (near-fall) replacing simple tilt. More dramatic physical decay of the propaganda system.
 - **2026-07-06 (later)**: S1-C05 revised to V3 (~7s) — added CCATS look-up beat BEFORE sign drop to establish cause-and-effect narrative. He looks up → sign drops in response → he sighs → walks forward. Sequence: walk 1.5s → look up 1s → sign drop-and-catch 1.5s → sigh 1s → back-view dejected 2s.
 - **2026-07-06 (later)**: S1-C04 revised to V3 — punch card mechanic clarified to two-step (insert-halfway hang → paw-release → paw-to-lever → pull triggers card-swallow). Crowd rules strengthened to RADICAL diversity (8 explicit different breeds) + mandatory hats for every crowd cat. Updated memory rule crowd-neutral-vs-hero-unique-emotion with new radical-diversity + mandatory-hat requirements.
+- **2026-07-06 (later)**: S1-C05 revised to V4 — restructured to keep beats 1-4 (walk + look up + drop + 1s hold) ALL in continuous back-view. Look-up visible from behind via cap-crown tilt. Only ONE hard cut at 00:05 to side-profile face for sigh (the emotional ending). Removed final back-view dejected — face-sigh is now the emotional ending.
 
 ---
 
