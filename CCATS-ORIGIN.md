@@ -98,6 +98,19 @@ The world returns to normal. CCATS is overflowing with energy. He gulps down the
 - Bug-eyed shocked expression
 - Top hat still perched precariously
 
+### 5b. CCATS Post-Explosion Soot-Covered (Scene 2 Panel 8) ⭐ NEW
+- Same base identity as CCATS Factory Worker canonical
+- ENTIRE body covered in matte black carbon soot (fur, denim overalls, cap, boots, tail, flask all blackened)
+- Fur puffed up dramatically from explosion aftermath (puffball frazzled silhouette)
+- **Hero element**: wide dazed amber-gold eyes visible through soot (dramatic contrast)
+- Pink nose faintly visible through soot, white whiskers as thin strands
+- "CCATS" bib text barely readable through soot coating
+- Thin drifting grey smoke wisps rising off shoulders + cap + tail
+- Expression: DAZED / BLINKING / BEWILDERED (Chaplin/Wile E. Coyote comic post-explosion register)
+- ⛔ NO burn injuries, NO wounds, NO tears, NO angry expression
+- 6-panel turnaround: front / back / 3/4 / profile / front close-up / 3/4 close-up on gray studio backdrop
+- Used for Scene 2 Panel 8+ (after suit explosion, before Manager arrives)
+
 ### 6. Young KETDONUT (Kitten Girl)
 - Small chibi anthropomorphic **orange tabby kitten girl**
 - Cream chest fur, big warm amber eyes, tiny pink nose
@@ -148,6 +161,14 @@ Vintage steampunk brass box mounted on brick pillar. TOP: aged brass plaque with
 8. Worker walks forward past machine
 
 ⚠️ Critical staging: BEFORE lever pull = card hanging halfway out + paw NOT on card. DURING lever pull = card sucked in. AFTER = slot empty.
+
+**Card orientation (LOCKED):**
+- ⭐ Card is a plain PAPER TIME-CARD — cream cardstock with printed tally-mark grid + column lines
+- ⛔ NO envelope, NO letter format — just bare cardstock
+- ⭐ Card enters slot **BOTTOM-EDGE FIRST** (short bottom edge slides in), with **TOP-EDGE (printed header/grid) STICKING OUT** and remaining VISIBLE above the slot lip
+- ⛔ NEVER top-edge first (hides the printed info)
+- ⛔ NEVER sideways / long-edge first
+- Orientation while halfway-inserted: **vertical portrait**, bottom half INSIDE, top half UP and OUT
 
 ---
 
@@ -220,8 +241,51 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 
 **Refs:** @Image1 = dawn env (weather only) + @Image2 = CCATS canonical + @Image3 = punch card machine canonical
 
-### S1-C05 — Walk → Look Up → Sign Drop-and-Catch → Hold → Sigh
-**V4 (~7s, current):** All from BACK-VIEW until final hard cut. Beat 1 (00:00-01.5): pure back-view CCATS + crowd walking. Beat 2 (00:01.5-02.5): SAME back-view + CCATS looks up (visible via cap crown tilting up 20° + ears rotating forward — face NOT revealed). Beat 3 (00:02.5-04): SAME back-view + 💥 chain SNAPS + sign DROPS 40cm + chains CATCH at 20° swaying (rust flakes shower past his silhouette). Beat 4 (00:04-05): SAME back-view + 1-SECOND HOLD — CCATS momentarily frozen still looking up + sign swaying + crowd flows past him (his unique pause vs crowd routine). Beat 5 (00:05-07): ⚡ HARD CUT ⚡ to side-profile close-up — weary sigh warm breath vapor + resume trudge under swaying sign (face is the emotional ending).
+### S1-C07 — Walk → Stop → Look 2s + Zoom-In → Realistic Slight Drop → Face DRY Sigh (no vapor) → Walk
+**V1 (~8s, current):** Beat 1 (00:00-01.5s) back-view walking. Beat 2 (01.5-02.0s) STOP. Beat 3 (02.0-04.0s) look up + HOLD 2s + ⭐ CAMERA SLOWLY ZOOMS IN (15-20% focal shift, physically pulls viewer into recognition). Beat 4 (04.0-05.0s) realistic slight sign drop (10-15cm, 5-8° tilt, dampened sway to rest). Beat 5 (05.0-06.0s) 1s hold. Beat 6 (06.0-08.0s) ⚡ HARD CUT face side-profile → ⭐ DRY SIGH ⛔ NO breath vapor (sigh is audible-only + micro-expression + shoulder sag, air stays clean) → walk forward. Only ONE hard cut.
+**Key changes vs S1-C06:** Added camera zoom-in during 2s gaze beat (intensifies gaze weight) + removed breath vapor from sigh (dry internal resignation, not atmospheric drama).
+
+### S1-C06 — Walk → Stop → Look 2s → Realistic Drop → Face Sigh → 低下头 → Continue
+**V1 (~8s, current):** Beat 1 (00:00-01.5s) pure back-view walking. Beat 2 (01.5-02.0s) STOP mid-corridor (crowd continues past). Beat 3 (02.0-04.0s) look up + HOLD FULL 2-second GAZE at sign (still static). Beat 4 (04.0-05.5s) sign realistic-fatigue drop AFTER 2s look (10-15cm settle + 5-8° tilt + dampened sway to rest). Beat 5 (05.5-08.0s) ⚡ HARD CUT to side-profile face close-up → weary sigh warm breath vapor (0.7s) → LOWER HEAD 低下头 ~30° down (0.8s) → RESUME walking forward (1s). Only ONE hard cut. Realistic physics + unified crowd + full uniform locks preserved.
+
+### S2-C01 — Arrives at Workstation + Tightens Bolt (Assembly Line Grind Begins)
+**V1 (~6s, current):** Scene 2 begins. Beat 1 (00:00-01.5s) MEDIUM 3/4 BACK-VIEW — CCATS trudges into assembly line row, adjacent workstations occupied by diverse full-uniformed worker cats. Beat 2 (01.5-02.5s) camera dolly-around to 3/4 front-side, CCATS reaches wall hook + grabs brass wrench + lowers to workbench. Beat 3 (02.5-04.5s) SIGNATURE — locked medium close-up on paws working: left steadies brass diving suit chest plate, right positions wrench on bolt + slow deliberate 90° first turn + brass-on-brass friction + weary breath vapor. Beat 4 (04.5-06.0s) slow pull-back reveals endless assembly line with adjacent workers doing parallel gestures + wall clock in background + Chekhovian scale reveal. Single continuous take, no hard cuts. Environment per @Image1 Scene 2 factory interior canonical + character per @Image2 canonical.
+
+### S2-C02 — Close-Up Repeat Cycle (Tighten → Spray → Rivet w/ Real Hammer + Spark → Repeat)
+**V3 (~10s, current):** ALL SHOTS CLOSE-UP UPPER BODY only. Shot 1 (00:00-02.5s) 拧紧螺栓 — REAL WRENCH (traditional open-end, steel + wood). Shot 2 (02.5-05s) 喷涂头盔 — industrial brass spray-can. Shot 3 (05-07.5s) ⭐⭐⭐ 铆接装甲 — TRADITIONAL REAL-LIFE HAMMER (wooden handle + steel ball-peen head, ⛔ NO ornate brass barrel/trigger/gun-hybrid) swings x3 + steel-on-brass CLANG! x3 + warm-yellow spark burst x3. Shot 4 (07.5-10s) compressed cycle restart. NO explosion.
+**V2 (~10s, superseded):** Rivet tool was ambiguous brass gun-hammer hybrid contraption — user rejected as confusing.
+**Key change:** All tools now REAL-WORLD design per [[realistic-physics-not-dramatic]] — real hammer swung to strike rivet.
+**V1 (~15s, superseded):** Combined grind + explosion + aftermath in one clip. Split into two clips for cleaner narrative pacing.
+**Refs:** @Image1 = factory interior env + @Image2 = CCATS canonical + @Image3 = storyboard Panel 2 spark reference.
+
+### S2-C04 — Clock Time-Lapse 8 AM → 1 AM
+**V1 (~6s, current):** Single continuous static close-up on the big ornate wall clock per @Image2 canonical. Shot 1 (00:00-01s) baseline "8 AM" reading (Roman numerals + digital sub-display). Shot 2 (01-05s) ⭐ SIGNATURE: extreme time-lapse — hour hand blur spins + minute hand ultra-fast blur + internal brass gears rapid rotation + digital display rapidly flips through 17 hour readings ("8 AM"→"9 AM"→"10 AM"→...→"12 AM"), with milestone emphasis at "12 PM"/"6 PM"/"10 PM"/"12 AM" per @Image1 storyboard Panels 13-18. Shot 3 (05-06s) settles on "1 AM" — the workday ended at 1 AM, no relief. Compresses a 17-hour workday into 6 seconds. Locked ambient audio: accelerated ticking + gear whir + digital flip clicks + milestone chime cues + distant factory hum.
+**Refs:** @Image1 = storyboard Panels 13-18 (clock milestone reference) + @Image2 = factory interior V2 env plate (clock canonical design).
+
+### S2-C03 — Listless Check → POV Pressure-Gauge Misstrike → BOOM → Soot → Deadpan → Manager Cat-Vocal Scold
+**V6 (~15s, current):** Same as V5 (cat vocalizations only) but with REVISED REF LIST — removed @Image2 POV concept reference (user won't provide). POV composition (Shots 2-3) now fully described in text: two ginger tabby paws + real wooden-handled ball-peen hammer + brass pressure gauge with cream dial + numbered markings 10/20/30/40 + brass needle + copper piping fitting + workshop bokeh + Edison lanterns.
+- Vocals: CCATS "MIA!" (Shot 3) + "miao...?" (Shot 5) + Manager 4-part angry meow sequence (Shot 7)
+- All 4 refs remain: env + soot-covered canonical + Manager canonical + CCATS canonical
+**V5 (~15s, superseded):** Had @Image2 POV concept reference (5 refs total).
+**Refs (revised):** @Image1 = env + @Image2 = CCATS soot-covered canonical + @Image3 = Manager canonical + @Image4 = CCATS canonical.
+**Key changes vs V2:** Added first-person POV signature beat (Shots 2-3) showing his fatigue-blurred vision → the accident is caused by his exhaustion not clumsiness. Removed montage-resumes ending (that ending better fits a separate S2-C04 clip).
+**V2 (~15s, superseded):** No POV beat + had montage-resumes ending. Split into V3 (this) + potential S2-C04 (montage resumes).
+**Refs:** @Image1 = env + @Image2 = Manager canonical + @Image3 = soot-covered canonical + @Image4 = CCATS pre-explosion canonical.
+**V1 (~12s, superseded):** No montage-resumes beat — ended on Manager scold.
+**Refs:** @Image1 = env + @Image2 = CCATS canonical + @Image3 = spark visual + @Image4 = soot-covered canonical + @Image5 = Manager canonical.
+
+### S1-C05 — Walk → Look Up + HOLD GAZE → Sign Realistic Settle-Drop → Hold → Sigh
+**V7 (~7.5s, current):** Added LOOK-FIRST-THEN-DROP causal sequence:
+- ⭐ Shot 2 extended: CCATS tilts head up (~0.6s) + HOLDS GAZE at sign for 0.9s (total 1.5s) — sign completely STABLE during this
+- ⭐ Shot 3 delayed to 03.0-04.5s: ONLY AFTER CCATS's complete look-and-hold, THEN the sign realistic-fatigue drops
+- Clear temporal separation — look must COMPLETE before drop begins (⛔ NO simultaneous, ⛔ NO drop-then-look)
+- Narrative: his gaze pulls the propaganda's rot into visibility — recognition triggers reveal
+- All realistic physics from V6 preserved (10-15cm drop, 5-8° tilt, dampened sway, moderate CLINK-clunk)
+
+**V6 (~7s, superseded):** Look-up simultaneous with drop trigger (no hold-gaze beat).
+**V5 (~7s, superseded):** Unified crowd + no debris, but drop still dramatic.
+
+**V4 (~7s, superseded):** All beats 1-4 continuous back-view, look-up via cap crown tilt, chain-snap drop + rust flake shower + dust puff + lantern flicker at drop moment, 1s hold, hard cut to face sigh.
 
 **Key changes vs V3:** Beats 1-4 (walk + look up + drop + hold) ALL in continuous back-view (V3 had face close-up for look-up). Added 1-second HOLD beat after drop before the face cut. Removed final back-view dejected ending — face-sigh is now the emotional ending. Only ONE hard cut total (V3 had two).
 
@@ -247,7 +311,13 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 - ⛔ **NO face-to-camera** as default (use back/3-quarter/profile/silhouette/OTS)
 - ⛔ **NO tears** on any character — use posture/brow/mouth/breath/eyes for emotion
 - ⭐⭐⭐ **Crowd RADICAL diversity** — Each crowd cat MUST be a completely different breed with different fur color, face shape, size, and features. ⛔ NO two crowd cats look alike, ⛔ NO cat resembles the hero. List explicitly: tuxedo / calico / russian blue / mackerel / siamese / persian / bicolor / etc.
-- ⭐⭐⭐ **EVERY CROWD CAT MUST WEAR A HAT** — mandatory navy denim newsboy cap with brass paw-print button for all factory worker cats. ⛔ NO cat is hatless / bare-headed.
+- ⭐⭐⭐ **EVERY CROWD CAT MUST WEAR THE FULL COMPLETE UNIFORM** — all pieces mandatory:
+  - Navy denim newsboy cap with brass paw button
+  - Navy denim overalls with bib straps over shoulders
+  - Brown leather boots
+  - ⛔ NO partial uniforms (never just cap + harness with no overalls)
+  - ⛔ NO shirtless torsos, casual clothing, or missing pieces
+  - ⛔ NO hatless / bare-headed / barefoot cats
 - ⭐ **Crowd cats keep NEUTRAL NORMAL emotion** (never share hero's unique weariness/dejection)
 - ⭐ **Queue always BEHIND hero** (not beside, not in front)
 
@@ -264,9 +334,9 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 - ⭐ Wet cobblestone with warm reflection puddles
 
 ### Punch Card Machine ⭐ LOCKED CANONICAL
-- "TIME IN" plaque + "08:00 AM" digital display
+- ⭐⭐⭐ EXACTLY TWO readable text pieces on machine — "TIME IN" plaque + "08:00 AM" digital display — ⛔ NO other text/brand/labels/warnings/numbers anywhere on machine surface
 - Brass lever handle on RIGHT SIDE (never top, never left)
-- ⭐ TWO-STEP MECHANIC: (1) Card inserted HALFWAY hangs out of slot + paw releases → (2) Paw moves to right-side lever + pulls → card SUCKED IN fully swallowed on handle-pull
+- ⭐ TWO-STEP MECHANIC: (1) Card inserted BOTTOM-EDGE FIRST + hangs HALFWAY with TOP-EDGE printed grid visible above slot + paw releases → (2) Paw moves to right-side lever + pulls → card SUCKED IN fully swallowed on handle-pull
 - Card STAYS INSIDE permanently (never retrieved)
 
 ### Sign Board Text Locks
@@ -300,6 +370,13 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 - **2026-07-06 (later)**: S1-C05 revised to V3 (~7s) — added CCATS look-up beat BEFORE sign drop to establish cause-and-effect narrative. He looks up → sign drops in response → he sighs → walks forward. Sequence: walk 1.5s → look up 1s → sign drop-and-catch 1.5s → sigh 1s → back-view dejected 2s.
 - **2026-07-06 (later)**: S1-C04 revised to V3 — punch card mechanic clarified to two-step (insert-halfway hang → paw-release → paw-to-lever → pull triggers card-swallow). Crowd rules strengthened to RADICAL diversity (8 explicit different breeds) + mandatory hats for every crowd cat. Updated memory rule crowd-neutral-vs-hero-unique-emotion with new radical-diversity + mandatory-hat requirements.
 - **2026-07-06 (later)**: S1-C05 revised to V4 — restructured to keep beats 1-4 (walk + look up + drop + 1s hold) ALL in continuous back-view. Look-up visible from behind via cap-crown tilt. Only ONE hard cut at 00:05 to side-profile face for sigh (the emotional ending). Removed final back-view dejected — face-sigh is now the emotional ending.
+- **2026-07-07**: S1-C05 revised to V5 — explicit unified same-direction crowd march (all cats forward + backs to camera, no cross-directional movement). Removed dust puff + rust flake shower + lantern flicker at sign drop (clean drop-and-catch, only steam wisps + chain physics + pendulum sway). Delivered via Seedance Suite Video Prompt Builder 4-section format.
+- **2026-07-07 (later)**: S1-C04 revised to V5 — machine text lock strengthened to EXCLUSIVE "TIME IN" + "08:00 AM" ONLY on machine. Explicit forbid list added for brand names, model numbers, instructional labels, warnings, analog numerals, patent notices, and any other text on any machine surface. Extended text lock to entire frame (only 3 readable text pieces in whole scene: machine plaque + machine display + CCATS bib). Punch card canonical memory updated.
+- **2026-07-07 (later)**: S1-C05 revised to V6 — sign drop physics now REALISTIC (not exaggerated). Drop 10-15cm (was 40cm), tilt 5-8° (was 20°), sway dampens over 2s to static rest (was sustained), moderate metallic snap (was LOUD CLANG). New memory rule `realistic-physics-not-dramatic` locked to apply across all future CCATS scenes.
+- **2026-07-07 (later)**: S1-C05 revised to V7 (7.5s) — added LOOK-FIRST-THEN-DROP causality. Shot 2 extended to include 0.9s hold-gaze beat AFTER head-tilt (sign stable + static). Shot 3 delayed to 03.0s so drop happens AFTER complete look-up beat. His gaze pulls the propaganda's rot into visibility — recognition triggers reveal.
+- **2026-07-07 (later)**: S1-C06 delivered (~8s) — full stop-look-drop-face-sigh-continue sequence. Beats: walk (1.5s) + STOP (0.5s) + FULL 2s held gaze + realistic sign drop (1.5s) + ⚡ hard cut to face → sigh + 低下头 head-lower + resume walking (2.5s combined). Only ONE hard cut. Explicit stopping-then-looking sequence with 2s user-specified gaze duration.
+- **2026-07-07 (later)**: Scene 2 begins. S2-C01 delivered (~6s) — CCATS arrives at workstation + picks up brass wrench + tightens bolt on brass diving suit chest plate + slow pull-back reveals endless assembly line. Single continuous take. Chekhovian scale reveal.
+- **2026-07-07 (later)**: CCATS Post-Explosion Soot-Covered canonical delivered (6-panel turnaround) — for Scene 2 Panel 8+ use. Base identity per CCATS Factory Worker canonical + soot-covered state per Scene 2 storyboard Panel 8 reference (full body black + puffball fur + wide dazed amber eyes + thin smoke wisps + comic Wile E. Coyote register + no injuries).
 
 ---
 
