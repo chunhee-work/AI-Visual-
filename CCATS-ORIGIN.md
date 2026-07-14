@@ -366,6 +366,40 @@ STATIC LOCKED LOW-ANGLE shot positioned BEHIND the coffee queue (backs/lower leg
 
 ---
 
+## 🎬 SKET SNEAK PEEK — "Coffee Shop Robbery" (SKET × KETDONUT crossover teaser, 2026-07-14 session)
+
+A standalone **sneak-peek / teaser for SKET** (Samurai Cats spin-off). Two small-time robber cats raid KETDONUT's coffee shop; SKET is a lone customer at the bar. Taunted, he answers with a single unseeable draw — their knives break and clothes are slashed — and they flee in terror. **SKET is the mystery hero: his FACE is NEVER shown, start to finish — only back / side-from-behind / lower body / paws / tail.** He is the sneak peek; we never fully reveal him.
+
+**Core rules (hard-won this session):**
+- ⛔ **SKET's face NEVER shown** — camera locked behind/beside him; ⛔ no front angle, ⛔ no reverse-angle toward him. He faces the bar (back to room) so reveals stay structurally impossible.
+- ⛔ **Robbers seen ONLY from behind when flanking SKET** — depth order locked: CAMERA → robbers' backs (foreground L/R, BRUISER right / SNEAK left) → SKET's back (deeper, at bar) → bar. Robbers are BETWEEN camera and SKET, walking away from camera toward him. ⛔ never on the far side, ⛔ never turn to face camera.
+- ⭐ **The draw is invisible** — SKET only flicks the hilt out a sliver with his RIGHT paw and slams it back (draw-and-reseat), full speed ~9 frames, ⛔ NO slow-motion, ⛔ no blade swing/arc. A bright **cool steel-white specular glint** flares along the blade the instant it clears the saya.
+- ⭐ **Cup discipline** — exactly ONE KETDONUT mug (cream, brown paw-print + "KETDONUT" serif, crema, ⛔ NO saucer). SKET holds it two-pawed; to set it down he LEANS FORWARD and places it flat on the wooden bar with contact shadow — ⛔ never floats/hovers in mid-air.
+- Real-cat vocalizations only; ⛔ no music, no human voice, no subtitles, no phonetic meow. Realistic physics (knives snap clean, cloth opens along cut lines, fur tufts drift). Whole-second durations only (no 0.5s).
+
+**Characters:**
+- **BRUISER** (fat robber): big round black-white tuxedo cat, dark cloth bandit-mask over lower muzzle, black knit beanie, torn notched ear + brow scar, grimy black-grey striped burglar shirt under a torn hooded coat, fingerless gloves. **DUAL-WIELDS — one small knife in EACH paw.**
+- **SNEAK** (skinny robber): slimmer grey tabby, black domino eye-mask, gold ear-ring, brow scar, sly fang grin, frayed scarf + tattered vest over grimy white long-sleeve. **One small knife in his RIGHT paw only.**
+- House style for both: polished stylized 3D render + hyper-detailed realistic fur (Pixar/Puss-in-Boots register), chibi-stout rounded, big amber-gold eyes — NOT dark gritty concept-art/stop-motion. Clean-but-menacing.
+- **SKET**: per [[sket-corrected-samurai-armor-design]] — chibi-stout brown-gray tabby samurai, dark-iron lamellar armor + kabuto (brass paw-print + ear-cutouts), twin katana w/ RED rope saya, diamond ray-skin tsuka + brass kashira. Filmed back/side only.
+
+**Clip list (delivered, iterated on-set):**
+- **SP-01 · Robbers enter** — tight framing (⛔ no wide) as the two swagger in, cocky, knives out, toward flustered KETDONUT; hook = SNEAK's eye catches a shadowed seated figure (SKET planted, unrevealed).
+- **SP-02 · Notice SKET** — ONE continuous take, camera locked BEHIND SKET: front-facing robbers read menacing across the bar, SNEAK notices SKET's still armored back, focus racks to SKET calmly sipping the single KETDONUT mug. ⛔ no cut, ⛔ no reverse, face never seen.
+- **SP-03 · SKET solo sip (4s)** — pure back-view beauty shot, leftmost bar stool, calm two-pawed sip.
+- **SP-04 · Zoom-out + approach + raise knives (6s)** — depth-locked: from SKET close-up, zoom out to robbers' BACKS in foreground L/R; SKET leans forward and PLACES the mug on the bar; robbers step deeper toward him, arrive behind the stool and RAISE knives.
+- **SP-05 · Taunt → enraged stab (→ hard cut)** — robbers flank & taunt (knife taps on armor), SKET ignores, SNEAK 恼羞成怒 fast-stabs; end frozen at peak of thrust.
+- **SP-06 · ⭐ Right-paw hilt draw (4s)** — macro side-rear on torso/hilt (HD image ref), no face; RIGHT-paw ~9-frame full-speed flick-and-reseat + cool-white glint. (Kept re-iterating: right paw / full speed / visible reflection.)
+- **SP-07 · Knives break → stun → terror → flee (6-8s)** — front-view CU two-shot: all knives SNAP + shirts slashed + fur tufts cut → freeze, look at broken knives + each other → terror (非常害怕) → stagger back → bolt out the KETDONUT door.
+
+**Image assets generated (GPT-2):** two-robber character sheet (house style), robber front-face two-shot (dual-wield + right-hand, back-of-shop reverse-angle bg with single KETDONUT door + brass handle on RIGHT), HD macro of SKET torso + right-paw hilt.
+
+**Env note:** KETDONUT coffee shop = warm steampunk café (wood bar, brass espresso machine, big round rain window on the COUNTER side; entrance door + café tables + brick wall on the BACK side). Front-facing robber shots use the BACK side (⛔ don't replicate the counter wall).
+
+**Refs pattern:** @Image1 robbers · @Image2 SKET back · @Image3 shop interior · @Image4 robbers' position/HD hilt · @Image5 KETDONUT cup (attach in Higgsfield/Seedance per shot).
+
+---
+
 ## 🔒 PROJECT LOCKED RULES & CANONICAL SPECS
 
 ### Style Requirements (Universal)
@@ -447,6 +481,7 @@ STATIC LOCKED LOW-ANGLE shot positioned BEHIND the coffee queue (backs/lower leg
 - **2026-07-07 (later)**: Scene 2 begins. S2-C01 delivered (~6s) — CCATS arrives at workstation + picks up brass wrench + tightens bolt on brass diving suit chest plate + slow pull-back reveals endless assembly line. Single continuous take. Chekhovian scale reveal.
 - **2026-07-07 (later)**: CCATS Post-Explosion Soot-Covered canonical delivered (6-panel turnaround) — for Scene 2 Panel 8+ use. Base identity per CCATS Factory Worker canonical + soot-covered state per Scene 2 storyboard Panel 8 reference (full body black + puffball fur + wide dazed amber eyes + thin smoke wisps + comic Wile E. Coyote register + no injuries).
 - **2026-07-14**: Big session — delivered Scene 5 (The Hero) + Scene 6 (A Better Life) + teaser clips. S5: manager-trapped balcony cry-for-help, hero suit reveal (360 orbit power-on, fleeing cats keep running opposite, no full-bright), coffee blast (pull pipe from back equipment, 45° up, liquid coffee not steam), coffee douses building (manager fully coffee-soaked → drenched-stunned), rescue bridal-carry (single locked take), landing/wall-topples-toward-them (close 45°, only CCATS snaps head), put-manager-down-standing → low-angle hero punch → hard-cut wide wall shatter (no manager), "...OOPS" aftermath, first-person POV wall falling (no cat), 8-cats surprise→congrats+envy (no CCATS). S6: S6-C11A walk/reveal-sign LOCKED, coffee-cart serving, "the usual boss?" cat-vocal dialogue, ending split (handoff / manager back-view both-ears-steam / CCATS knowing smile), KETDONUT hidden-cameo teaser (behind-queue low angle, tail+feet only, no emphasis, cut to black). New memory rules added: seedance-camera-match-reference-exactly, seedance-timecoded-shot-format, env-ref-close-portion-only, s6-panel11-a-walk-reveal-sign-locked; reinforced always-invoke-seedance-suite + 4000-char budget + no-real-cats (upright+clothed+hat, no quadruped, no person voice).
+- **2026-07-14 (later)**: Built the **SKET SNEAK PEEK — "Coffee Shop Robbery"** crossover teaser (SKET × KETDONUT). Designed the two robber cats (BRUISER dual-wield / SNEAK right-hand) in house 3D style after rejecting a dark gritty concept-art render. Iterated the whole scene shot-by-shot against generated video: robbers enter → notice SKET → SKET solo sip → zoom-out approach + raise knives → taunt + enraged stab → ⭐ invisible right-paw draw with cool-white glint → knives break + stun + terror + flee. Hard-won locks: SKET face NEVER shown (camera behind, no reverse), robbers back-view-only when flanking (depth order camera→robbers→SKET→bar), cup must be physically placed on the bar (⛔ no floating), draw is right-paw ~9-frame full-speed flick+reseat with a cool steel-white specular flash. New memory rules added: default-image-model-gpt2, image-ref-attach-by-default, seedance-whole-second-durations.
 
 ---
 
