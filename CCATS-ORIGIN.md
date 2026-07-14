@@ -297,6 +297,75 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 
 ---
 
+## 🎬 SCENE 5 — THE HERO (Seedance clips, 2026-07-14 session)
+
+### S5-C03 — Manager Trapped on Balcony, Cries for Help (~5s)
+Low-angle rising-crane reveal (camera `match the reference exactly` @Video1 Blender previz). Manager trapped on the balcony of a burning steampunk building — twin fluted stone columns flank a tall arched multi-pane glazed door, white marble balustrade; fire raging behind the glass/doorway. Manager grips the rail with one paw + reaches out with the other, waving/crying for help (one desperate wavering cat meow), looks down toward ground floor, glances back at the closing fire. Pose lock: feet stay behind the balustrade, never climbs over. ⛔ no alarm light.
+**Refs:** @Image1 = Manager sheet + @Image2 = burning factory env + @Video1 = camera/motion previz.
+
+### S5-C04-05 — Hero Suit Reveal (~7s)
+Camera `match reference exactly` (@Video1). Fleeing tall denim worker cats run AWAY from CCATS (opposite direction), never freezing — keep running the whole clip incl. the orbit + final frame; ~1s one glances back. CCATS rises from the crowd facing the fire; ⭐ continuous low bottom-to-top 360 orbit, coffee-armor powers on piece-by-piece (gauntlets clamp, belt buckles, back coffee-tank ignites, valves pop, gauges glow) + POWER STANCE (feet wide, both fists clenched pressed down). ⛔ do NOT restore CCATS to full brightness — dramatic firelit RIM light only, moody. Camera never stops/freezes.
+**Refs:** @Image1 = CCATS coffee-armor + @Image2 = worker-cats sheet + @Image3 = burning factory env + @Video1 = previz.
+
+### S5-C06 — CCATS Coffee Blast (~6s)
+Camera `match reference exactly` (@Video1). CCATS reaches back and pulls a nozzle-pipe out of the back-mounted coffee EQUIPMENT (stays connected by flexible hose), grips it two-paw, aims at a clear 45° UP angle, unleashes a high-pressure jet of hot brown COFFEE (⛔ not "steam" — liquid coffee) sweeping across, fire walls recoil in periphery (no close dousing contact), braces into recoil + fierce cat yowl. ⛔ no alarm light.
+**Refs:** @Image1 = CCATS coffee-armor + @Image2 = burning factory env + @Video1 = previz.
+
+### S5-C07 — Coffee Douses Manager's Building (~5s)
+Camera `match reference exactly` (@Video1). Env exactly like the trapped-balcony building. Manager starts in the scared PLEADING pose (both paws up, palms open, mouth open). ⭐ A brown coffee jet sweeps in from off-screen LEFT, dousing the whole building — all fire extinguished with big billows of white steam. Manager gets COMPLETELY coffee-soaked head-to-toe (fur matted dark brown, dripping, hat brim dripping), reaction shifts to drenched-STUNNED (eyes wide, mouth open, frozen). ⛔ only Manager + building in frame (CCATS off-screen); no alarm.
+**Refs:** @Image1 = building env (exact) + @Image2 = Manager sheet + @Video1 = previz.
+
+### S5-C08 — Rescue: Jump Up + Bridal Carry + Jump Down (~5s)
+SINGLE CONTINUOUS LOCKED-OFF static shot (⛔ camera never moves, no hard cut), framed on the balcony exactly like the trapped-balcony env. CCATS leaps UP into frame from the ground floor, lands beside the coffee-soaked Manager (BOTH paws down now, ⛔ not waving), scoops him into a BRIDAL CARRY (per @Image4 carry-pose ref — cradled horizontal across chest, arms under back + knees), then jumps back DOWN off the balcony out of frame. Manager is BIGGER than CCATS. ⛔ no alarm.
+**Refs:** @Image1 = balcony env (exact) + @Image2 = CCATS coffee-armor + @Image3 = Manager sheet (coffee-soaked) + @Image4 = bridal-carry pose ref.
+
+### S5-C09 — Landing / Wall Topples Toward Them (~5s)
+CLOSE, tight 45° three-quarter side framing (env = only a close-in slice of burning factory, ⛔ not the wide establishing shot). CCATS lands bridal-carrying the coffee-soaked Manager (Manager bigger). ⭐ On their LEFT a huge chunk of the building/wall gives way and topples DOWN TOWARD them (crushing trajectory onto their exact position). The INSTANT it starts to fall, ONLY CCATS immediately snaps his head to the LEFT to look (Manager stays curled, does not turn). Ends on that instant reaction / debris mid-fall — hook into the punch. ⛔ no alarm.
+**Refs:** @Image1 = CCATS + @Image2 = Manager (coffee-soaked) + @Image3 = burning env (close portion only).
+
+### S5-C14-15 — Put Manager Down Standing → Hero Punch → Wall Shatter (~5s, one clip, internal hard cut)
+PACING = extremely fast, full-speed, URGENT. Shot 1: CCATS super-quickly sets the coffee-soaked Manager DOWN onto his FEET STANDING (⛔ not dropped/lying), off to the side. Shot 2: ⭐ LOW-ANGLE HERO close-up (face + fist) — instant massive heavy punch, no wind-up delay. Shot 3: HARD CUT to BIG WIDE — the debris + the ENTIRE brick factory wall completely shatter at once, huge dust burst, giant hole (scale LARGE). ⛔ NO manager in the wide shatter shot. Realistic-but-big physics. Carry/hold ref = @Image4 (blue=CCATS, red=Manager). ⛔ no alarm.
+**Refs:** @Image1 = CCATS + @Image2 = Manager (coffee-soaked) + @Image3 = burning ruins env + @Image4 = carry-pose sketch.
+
+### S5-C16 — "...OOPS" Aftermath (~5s)
+Reverse "over the crowd's backs" composition: worker cats (backs / three-quarter-backs to camera, turned inward, shocked faces in profile) frozen staring; Manager closest to CCATS, fully astonished (eyes wide, mouth agape). CCATS front-and-center facing camera, sheepish — lowers fist naturally to his side, other paw scratches back of head, awkward closed-mouth grin, one small "oops" meow. Camera slow push from group onto CCATS. Fire kept in background. ⛔ no alarm light, no person voice.
+
+### S5-POV — First-Person POV Wall Falling (~4s, no cat)
+Strict first-person POV (camera IS the eyes), handheld, ⛔ NO cat/character in frame. Faces the red-brick factory wall in the burning steampunk ruins; wall cracks then the whole wall topples DOWN at the camera, bricks + dust rushing the lens, frame violently shakes, ends as debris fills frame. ⛔ no alarm, no cat sounds.
+**Refs:** @Image1 = brick wall + burning ruins env.
+
+### S5-REACT — 8 Worker Cats Surprise → Congrats + Envy (~5s, no CCATS)
+⛔ CCATS NOT in frame (they react to off-screen CCATS). The 8 distinct worker cats (tall upright, denim overalls + paw-print caps, ⛔ no quadruped real cats) walk over IRREGULARLY (staggered, not a uniform line) then stop → ⭐ collective SURPRISE (wide eyes, dropped jaws) that CCATS is so strong → melts into congratulation + admiration/envy (羡慕, impressed smiles, nods, a couple clap). Env = close portion of burning factory aftermath. ⛔ no alarm, no person voice.
+**Refs:** @Image1 = worker-cats sheet + @Image2 = burning factory env (close portion only).
+
+---
+
+## 🎬 SCENE 6 — A BETTER LIFE (Seedance clips, 2026-07-14 session)
+
+### S6-C11A — Walk to Work + Reveal Sign 🔒 LOCKED (~8s)
+See memory [[s6-panel11-a-walk-reveal-sign-locked]]. TALL upright cats (⛔ not squat/dwarf), all anthro + blue denim work outfit + flat cap, ⛔ no four-legged real cat, ⛔ no bird, ⛔ no person voice. Follow one hero cat; only he tilts his gaze up 45° to the overhead "START YOUR DAY WITH COFFEE" sign. Two framings tried: (a) low tracking from BEHIND, (b) low SIDE-ON 45° profile watching him look up. Only a little of the CCATS coffee cart shown.
+**Refs:** @Image1 = worker-cats ref + @Image2 = coffee-street env (sign + cart).
+
+### S6-C11B — Coffee Cart, CCATS Serves (~6s)
+Hard cut in: cream-tabby worker cat (frame side) in three-quarter profile breaks into a heartfelt smile looking toward the CCATS COFFEE cart; camera pushes past him (slides out of frame) and lands on CCATS behind the counter handing a steaming "CCATS" mug to the front cat, serving each with a genuine smile. ⛔ the "START YOUR DAY WITH COFFEE" sign does NOT appear in this shot. Mirror variant available (cart on left / cat on right). All cats tall upright + clothed; ⛔ no real cat, no person voice.
+**Refs:** @Image1 = side cat + @Image2 = worker-cats sheet + @Image3 = env w/ CCATS COFFEE cart + @Image4 = CCATS coffee-armor.
+
+### S6-C13-14 — "The Usual, Boss?" Dialogue (~8s)
+Shot/reverse-shot with internal hard cuts: CU cozy cart, Manager reaches front → hard cut CCATS grins (friendly questioning meow = "the usual, boss?") → hard cut Manager warm smile (answering meow = "you know it") → hard cut back CCATS satisfied smile. ⛔ ALL dialogue via real-cat vocalizations + acting only — no human/person voice, no subtitles, no phonetic meow.
+**Refs:** @Image1 = CCATS coffee-armor + @Image2 = Manager sheet + @Image3 = coffee-street env w/ cart.
+
+### S6-C15 — Ending (Panel 15-16), split into 3 clips
+- **Clip 1 (~4s):** CU on the MANAGER'S FACE receiving the "CCATS" mug — ⛔ only CCATS's paws reach in (not his face); Manager takes it, warm grateful thank-you meow. BG = soft out-of-focus coffee street.
+- **Clip 2 (~5s):** LOW-ANGLE (~30° up) tracking BEHIND the Manager's back + top hat as he walks away, so the overhead "START YOUR DAY WITH COFFEE" sign stays in the top of frame the whole time. ⭐ Both ears emit a tiny steam puff + faint "chk-chk-pshhh" (the gag lands on the Manager). ⛔ never turns to camera, ⛔ no coffee shop/cart shown, ⛔ no other cats.
+- **Clip 3 (~4s):** CCATS behind the coffee-shop bar (@Image1 exact interior) — GAZE LOCK: keeps the reference's off-camera gaze toward his own right (⛔ never turns to camera), then a CLEAR, BIG, HAPPY knowing smile (notices the Manager's ear-steam).
+**Refs:** Manager sheet + CCATS coffee-armor + "CCATS" cup + coffee-street env + (Clip 3) CCATS-behind-bar still.
+
+### TEASER — KETDONUT Hidden Cameo (~5s, post-ending easter egg)
+STATIC LOCKED LOW-ANGLE shot positioned BEHIND the coffee queue (backs/lower legs/tails/feet). Worker cats shuffle forward toward the CCATS COFFEE cart; CCATS pours coffee at the cart, unaware. HIDDEN CAMEO (@Image3): KETDONUT (small orange tabby, pink bow) — only her little orange legs + pink-ribboned orange tail visible among the bigger cats for ~1-2s, ⛔ NOT emphasized (⛔ no push-in, ⛔ no slow-mo, ⛔ no focus pull, ⛔ no music sting, ⛔ no lingering — same focus as everything else). Queue shuffles forward, CUT TO BLACK. Discipline: never point at her — the comment section is where the audience tells each other.
+**Refs:** @Image1 = CCATS COFFEE cart + queue env (close portion only) + @Image2 = worker-cats sheet + @Image3 = KETDONUT character ref.
+
+---
+
 ## 🔒 PROJECT LOCKED RULES & CANONICAL SPECS
 
 ### Style Requirements (Universal)
@@ -377,6 +446,7 @@ Close-up back-view of CCATS walking into factory gate at dawn. Surrounded by div
 - **2026-07-07 (later)**: S1-C06 delivered (~8s) — full stop-look-drop-face-sigh-continue sequence. Beats: walk (1.5s) + STOP (0.5s) + FULL 2s held gaze + realistic sign drop (1.5s) + ⚡ hard cut to face → sigh + 低下头 head-lower + resume walking (2.5s combined). Only ONE hard cut. Explicit stopping-then-looking sequence with 2s user-specified gaze duration.
 - **2026-07-07 (later)**: Scene 2 begins. S2-C01 delivered (~6s) — CCATS arrives at workstation + picks up brass wrench + tightens bolt on brass diving suit chest plate + slow pull-back reveals endless assembly line. Single continuous take. Chekhovian scale reveal.
 - **2026-07-07 (later)**: CCATS Post-Explosion Soot-Covered canonical delivered (6-panel turnaround) — for Scene 2 Panel 8+ use. Base identity per CCATS Factory Worker canonical + soot-covered state per Scene 2 storyboard Panel 8 reference (full body black + puffball fur + wide dazed amber eyes + thin smoke wisps + comic Wile E. Coyote register + no injuries).
+- **2026-07-14**: Big session — delivered Scene 5 (The Hero) + Scene 6 (A Better Life) + teaser clips. S5: manager-trapped balcony cry-for-help, hero suit reveal (360 orbit power-on, fleeing cats keep running opposite, no full-bright), coffee blast (pull pipe from back equipment, 45° up, liquid coffee not steam), coffee douses building (manager fully coffee-soaked → drenched-stunned), rescue bridal-carry (single locked take), landing/wall-topples-toward-them (close 45°, only CCATS snaps head), put-manager-down-standing → low-angle hero punch → hard-cut wide wall shatter (no manager), "...OOPS" aftermath, first-person POV wall falling (no cat), 8-cats surprise→congrats+envy (no CCATS). S6: S6-C11A walk/reveal-sign LOCKED, coffee-cart serving, "the usual boss?" cat-vocal dialogue, ending split (handoff / manager back-view both-ears-steam / CCATS knowing smile), KETDONUT hidden-cameo teaser (behind-queue low angle, tail+feet only, no emphasis, cut to black). New memory rules added: seedance-camera-match-reference-exactly, seedance-timecoded-shot-format, env-ref-close-portion-only, s6-panel11-a-walk-reveal-sign-locked; reinforced always-invoke-seedance-suite + 4000-char budget + no-real-cats (upright+clothed+hat, no quadruped, no person voice).
 
 ---
 
