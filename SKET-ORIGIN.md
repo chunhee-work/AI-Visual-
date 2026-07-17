@@ -73,24 +73,27 @@ Tears fall. SKET's pride dies with his master. He returns to the temple humbled.
 
 ## 🐈 CHARACTER CANONICALS
 
-### 1. SKET (Prodigy Disciple) — PRIMARY CANONICAL
-- Chibi anthropomorphic **snow-leopard-spotted grey tabby cat** (dark grey base fur + charcoal-black rosette spots across body + cream chest + cream underbelly)
-- **Face:** broad short muzzle, cream cheeks + cream chin, prominent whiskers
-- **Fur pattern:** dense charcoal-black rosette leopard spots across head crown + shoulders + arms + back + tail
-- **Eyes:** sharp amber-gold, moderate almond shape, arrogant confident gaze (slightly narrowed default)
-- **Ears:** pointed with charcoal tufts + soft cream inner ear
-- **Head fur:** slightly wild spiky charcoal tuft on top of head + between ears
+### 1. SKET (Prodigy Disciple) — PRIMARY CANONICAL ⭐ UPDATED 2026-07-17
+- Chibi anthropomorphic **rich warm brown tabby cat** (rich earthy medium-warm dark brown base fur with distinct darker brown/black tabby stripes across forehead crown in classic tabby "M" mark, tabby stripes on cheeks radiating from eye/nose, tabby stripes on shoulders/back, and darker ringed bands along the tail)
+- **Face:** slightly angular sculpted animated face structure (⛔ NOT overly round kitten face), broad short muzzle, cream cheeks + cream chin + cream muzzle patch, prominent white whiskers
+- **Fur pattern:** classic domestic-shorthair tabby stripes (⛔ NOT leopard-rosette spots), distinct darker brown/black stripe "M" mark on forehead crown as primary identifier
+- **Eyes:** ⭐ WARM AMBER-GOLD ROUNDED SOFTER ALMOND SHAPE with confident intense gaze (⛔ NOT sharp narrow slit-eyes, ⛔ NOT wide innocent kitten eyes) — softly rounded almond with visible catchlight and iris depth
+- **Ears:** tall pointed brown tabby ears with cream inner ear + tabby stripe pattern on outer ear surface
+- **Head fur:** ⛔ ABSOLUTELY NO HAIR TUFT on top of the head — smooth-furred crown between the ears with only the natural "M" tabby pattern visible (⛔ NO spiky hair, ⛔ NO mohawk, ⛔ NO protruding tufts)
 - **Build:** athletic lean chibi ~ young adult proportions, agile posture
-- **Tail:** long, ringed with dark charcoal bands, held with confident swagger
-- **Default expression:** smug half-lidded confident smirk with slight fang exposed
+- **Tail:** long ringed brown tabby with darker brown bands, held with confident swagger
+- **Default expression:** smug half-lidded confident smirk with slight fang exposed at corner of mouth
 - **Voice register:** brash, mocking, dismissive
+- **Rendering style:** ⭐ ANIMATED Pixar Puss in Boots The Last Wish stylized cartoon register (⛔ NOT photorealistic, ⛔ NOT hyperreal real-cat photography)
 
-**Wardrobe — Disciple Robes (Scenes 1-5):**
-- Traditional white samurai training gi with charcoal-grey leopard-spot fabric pattern echoing his fur
-- Wide loose sleeves + wrap-front closure
-- Black cotton belt tied at waist
-- No cap, no armor (yet)
-- Bare feet (cat paws visible)
+**Wardrobe — Disciple Trainee Gi (Scenes 1-5):**
+- ⭐ Crisp clean white cotton wrap-front samurai training gi jacket with wide loose sleeves ending at mid-forearm
+- Front wrapped left-over-right and tied closed at the waist
+- ⭐ Single medium-sized bold BLACK PAW-PRINT EMBLEM on the LEFT CHEST (five soft-rounded pads — four toe pads above one central palm pad)
+- Wide traditional cotton BLACK OBI BELT tied at the front with a neat square knot with two short flat ends hanging down
+- Matching loose WHITE COTTON TRAINING PANTS (hakama-style loose fit) reaching to the ankles, cinched at the ankle cuff
+- Completely BAREFOOT showing small furry cat paw feet with visible pink toe pads
+- ⛔ NO cap, ⛔ NO armor, ⛔ NO belt accessories, ⛔ NO boots, ⛔ NO CCATS-style overalls
 - Small travel sack strapped over shoulder in Scene 4 (leaving temple)
 
 ### 2. SKET Post-Awakening (Scene 6 Montage — Humbled Trainee)
@@ -101,53 +104,64 @@ Tears fall. SKET's pride dies with his master. He returns to the temple humbled.
 - **Eyes:** clear, softer, humble but resolute (⛔ no smug smirk)
 - Slight scar-mark on cheek from the bandit fight (⭐ optional continuity detail)
 
-### 3. SKET Grandmaster (Final Reveal — Scene 6 Ending)
-- Same SKET identity, mature (years-later)
-- Face slightly matured — sharper defined muzzle, more prominent cheek fur, subtle whisker length
-- Ears with fuller tufts
-- Fur still leopard-spot pattern but slightly grayer around the muzzle
-- **Wardrobe = OLD GRANDMASTER'S ARMOR (inherited):**
-  - Deep crimson-red lacquered samurai armor kabuto helmet with LARGE BRASS PAW-PRINT emblem on crown
-  - Twin brass cat-ear-shaped horns curving up from helmet sides
-  - Layered crimson-red lacquered chest plate (dou) with brass rivets + brass paw-print emblem centered on chest
-  - Red lacquered shoulder pauldrons (sode) with brass edging
-  - Red lacquered thigh armor plates (kusazuri) + brass trim
-  - Deep white long undergarment robe beneath
-  - Brass-edged crimson gauntlets (kote)
-  - Long katana at left hip in ornate black-lacquered saya scabbard with brass fittings
+### 3. Adult SKET Armored (Scene 6 Ending — post-mastery inherited armor) ⭐ UPDATED 2026-07-17
+- Same SKET identity as Prodigy (brown tabby + amber eyes + smooth-furred crown), matured
+- Face slightly matured with sharper defined muzzle, more prominent cheek fur
+- Fur still classic brown tabby stripes, slightly grayer around the muzzle with age
+- **Wardrobe = ADULT SKET SIGNATURE ARMOR (also inherited by his master in canon):**
+  - ⭐ KABUTO helmet: DARK WEATHERED IRON base with rich CRIMSON-RED LACQUERED accent PLATES on the side (⭐ NOT solid red — helmet is primarily dark iron with small red lacquered rectangular dot pattern along edges)
+  - ⭐ LARGE PROMINENT BRASS PAW-PRINT EMBLEM centered on the helmet crown with distinctive BRASS WINGED FLARE ORNAMENT flanking the emblem (⛔ NOT large curving cat-ear horns — the winged flare around the crown emblem is the signature detail)
+  - Small ear cutouts on helmet sides so tabby ears poke out naturally
+  - SHIKORO neck-guard: layered dark iron plates with small red dot pattern along edges
+  - CHEST PLATE (dou): DARK IRON layered plates with SUBTLE brass rivet accents (small brass dots at plate joints, ⛔ NOT rows of prominent rivets), subtle brass decorative motifs, small red lacquered dot pattern along plate edges
+  - SODE shoulder pauldrons: dark iron with red dot pattern rows + small brass rings on outer edge + prominent SMALL BRASS PAW-PRINT EMBLEM on outer face of each shoulder pauldron
+  - RED SILK CORD OBI belt tied at front with knot
+  - KUSAZURI thigh armor skirt: dark iron plates with small red dot pattern rows + subtle brass rivets
+  - KOTE gauntlets: dark iron with red trim accents at cuffs
+  - Deep cream/white undergarment robe visible at neck collar and edges
+  - Long traditional Japanese KATANA sheathed in ornate BLACK-LACQUERED SAYA at LEFT HIP with red silk sageo cord + small brass tsuba guard with paw-print detail
+- ⭐ Overall color balance: DARK IRON dominant (⛔ NOT bulky red leather) — red is concentrated in the silk obi + small dot accents only
 - **Posture:** upright commanding, calm authoritative gravitas
-- **Expression:** serene, wise, disciplined
-- The armor is heavier and more ornate than any other cat's
+- **Expression:** confident intense with slight arrogant smirk
 
-### 4. OLD GRANDMASTER — Temple Master (Mentor Canonical)
-- Chibi anthropomorphic **elder male cat** — snow-leopard-spotted grey tabby OR dark grizzled-brown tabby (grizzled with age)
-- Weathered wise face with long drooping WHITE MUSTACHE + long WHITE POINTED CHIN BEARD
-- Amber-copper eyes, deep gentle wisdom, slightly hooded with age
-- Long ear tufts, weathered fur with grey/white patches around muzzle and temples
-- Short slightly stooped elder posture but with unmistakable presence
-- **Wardrobe (LOCKED FULL ARMOR):**
-  - ⭐ **Deep crimson-red lacquered samurai armor kabuto helmet** with LARGE BRASS PAW-PRINT emblem prominently on crown (this is THE identifier)
-  - Twin brass cat-ear-shaped horns / mengu curving up from helmet sides
-  - Layered crimson-red lacquered chest plate (dou) with brass rivets + brass paw-print emblem centered on chest
-  - Red lacquered shoulder pauldrons (sode) with brass edging
-  - Red lacquered thigh armor plates (kusazuri) + brass trim
-  - Deep white long undergarment robe beneath
-  - Brass-edged crimson gauntlets (kote)
-  - Long katana at left hip in ornate black-lacquered saya scabbard
-- Small clan crest paw-print emblem repeated on shoulder + collar
+### 4. OLD GRANDMASTER — Temple Master (Mentor Canonical) ⭐ UPDATED 2026-07-17
+- Chibi anthropomorphic **elder GREY STRIPED TABBY cat** — weathered grizzled grey base with distinct darker charcoal-grey tabby stripes across forehead in classic "M" mark, tabby stripes on cheeks and shoulders, ringed darker bands along tail
+- Cream-white chest, chin, inner-ear fur with grey-white age patches around muzzle and temples
+- ⭐⭐⭐ SIGNATURE FACIAL HAIR (THE Grandmaster's primary identifier): LONG FLOWING WHITE DROOPING MUSTACHE hanging in two soft graceful sweeps + LONG WHITE POINTED CHIN GOATEE extending down in a distinguished sharp point
+- WISE DEEP AMBER-COPPER ROUNDED ALMOND EYES with gentle age hooding
+- Long white whiskers spreading from cheek pads, tall pointed grey tabby ears with cream inner fur and ear tufts of age
+- Slightly stooped elder posture but commanding presence and gravitas
+- **Wardrobe:** ⭐ THE SAME ARMOR DESIGN AS ADULT SKET (see canonical #3) — Grandmaster wore this armor first, and SKET inherits it after his sacrifice. Armor is IDENTICAL in design but shows MORE weathering than SKET's version (deeper scratches on lacquer, more brass patina, more visible battle-earned character reflecting decades of use)
+  - Dark iron kabuto with brass paw-print emblem + brass winged flare ornament on crown
+  - Small red dot pattern along armor plate edges
+  - Dark iron dou with subtle brass rivets
+  - Sode shoulder pauldrons with small brass paw-print emblem on outer face
+  - Red silk cord obi belt at front
+  - Kusazuri thigh armor skirt in dark iron with red dot accents
+  - Dark iron kote gauntlets with red trim
+  - Long katana in black-lacquered saya at left hip
 
-### 5. Trainee Samurai Cats (Diverse Crowd)
-- Various anthropomorphic cat breeds (⭐ RADICAL DIVERSITY per project rule):
-  - Grey tabby, orange tabby, tuxedo, calico, russian blue, siamese, black cat, bicolor, persian, mackerel, cream, spotted
-- **Wardrobe (LOCKED — all trainees identical):**
-  - White samurai training gi with grey/black paw-print motif OR subtle leopard-spot pattern
-  - Wide loose sleeves + wrap-front closure
-  - Black cotton belt tied at waist
-  - Bare feet
-  - Held katana or training weapon
-- Ages various — mostly young adult, some older senior students
-- ⭐ NO uniform faces — every cat visibly different breed, coloring, size
-- ⭐ Discipline in posture — upright, focused, respectful (contrast to SKET's slouched arrogant swagger)
+### 5. Trainee Samurai Cats (Same-Breed Fur-Color Variations Crowd) ⭐ UPDATED 2026-07-17
+- ⭐ SAME BREED / FACE / BODY STRUCTURE as SKET (all young trainees are the same domestic shorthair tabby-type kittens) — the ONLY variation across the ensemble is FUR COLOR and MARKING PATTERN, not different breeds
+- 8 locked color variations to draw from:
+  1. Bright orange tabby (with darker orange tabby stripes + emerald green eyes)
+  2. Solid black (glossy jet-black + amber-gold eyes)
+  3. Solid white (snow-white + pale sky-blue eyes)
+  4. Solid blue-grey (Russian-Blue-tone + emerald green eyes)
+  5. Silver mackerel tabby (silver base + charcoal stripes + hazel-green eyes)
+  6. Cream/tan (soft cream-beige + copper-amber eyes)
+  7. Tuxedo (jet-black + white chest bib + white paw socks + amber-gold eyes)
+  8. Calico tricolor (white base + orange + black patches + amber-copper eyes)
+- **Wardrobe (LOCKED — all trainees IDENTICAL to SKET's disciple gi):**
+  - Crisp clean white cotton wrap-front samurai training gi jacket + wide loose sleeves
+  - Single medium bold BLACK PAW-PRINT EMBLEM on left chest
+  - Wide traditional cotton BLACK OBI BELT tied at front with neat square knot
+  - Matching loose white cotton training pants reaching to ankles
+  - Completely BAREFOOT with pink toe pads visible
+  - ⛔ NO caps, ⛔ NO armor, ⛔ NO variations from SKET's uniform
+- ⭐ ⛔ ABSOLUTELY NO HAIR TUFT on any trainee — every crown is smooth-furred
+- ⭐ Personality register: ⭐⭐⭐ WARM FRIENDLY SOFT SMILE + BRIGHT KIND EYES with warm catchlight — kind wholesome disciplined trainees (⛔ NO smug smirks, ⛔ NO stern frowns) — the friendly warmth strongly CONTRASTS with SKET's arrogant swagger, letting SKET stand out as the aloof cocky one while all his peers are gentle kind-hearted
+- ⭐ Same chibi young-trainee body proportions and same height across all trainees + ⭐ same slightly angular sculpted animated Pixar cartoon face structure as SKET (⛔ NOT photoreal, ⛔ NOT overly round kitten)
 
 ### 6. Temple Guards (Scene 4 Rooftop Chase)
 - Same crowd rule as Trainee Samurai Cats — diverse breeds
@@ -208,11 +222,14 @@ Tears fall. SKET's pride dies with his master. He returns to the temple humbled.
 
 ## 🏭 ENVIRONMENT PLATES
 
-### 1. Mountain Temple Cloud-Sea Establishing (Scene 1 Panel 1)
-Ancient East-Asian mountain temple perched atop a rocky peak rising above swirling cloud sea. Multiple tiered pagoda roofs with curved upturned eaves + red-lacquered timber pillars + grey tile roofs. Stone foundations + winding stone staircases + cherry-blossom trees framing the outer walls. Golden-amber sunrise light backlighting the temple silhouette + long dramatic shadows. Warm peach-lavender sky. Distant misty mountain ridges receding into hazy blue. Camera POV drifting through the cloud sea toward the temple with slow cinematic push-in. Small dark birds gliding in the golden sky.
+### 1. Mountain Temple Cloud-Sea Establishing (Scene 1 Panel 1) ⭐ V3 DELIVERED 2026-07-17
+Ancient East-Asian mountain temple perched atop a rocky peak rising above swirling cloud sea. ⭐ Sprawling multi-building temple complex with clear architectural HIERARCHY: ONE dominant tall CENTRAL HERO PAGODA (3-4 tier tall traditional East-Asian pagoda) at the topmost stone terrace commanding the composition + multiple smaller flanking 2-tier and 1-tier pagoda halls on lower stepped terraces cascading down from the central peak + grand ceremonial stone staircase leading up to the hero pagoda + winding smaller staircases between terraces + wide stone plaza courtyards + traditional red-lacquered wooden torii-style gate arches. Multiple tiered pagoda roofs with curved upturned eaves + red-lacquered timber pillars + grey slate tile roofs with blue-green patina + brass eave bells. ⭐ Tall wooden banner posts throughout with LONG VERTICAL WHITE CLOTH BANNERS marked with bold black PAW-PRINT EMBLEM (clan crest). Cherry-blossom trees in soft pink bloom framing outer edges of terraces with drifting petals + ancient gnarled pine trees on rocky slopes + stone lanterns dotting paths. Craggy weathered grey-brown rock mountain foundation. Vast rolling cloud sea filling lower portion with warm golden peach highlights. Distant peaks receding through cloud sea with secondary pagoda silhouettes. Golden-amber SUNRISE sky with radiant GOD-RAYS through scattered clouds touching hero pagoda. Warm peach-lavender sky palette. Camera POV: wide cinematic 16:9 slightly elevated 3/4 view. **Locked as ENV-01 canonical.**
+
+### 1b. Mountain Temple NIGHT Establishing (Scene 4 open) ⭐ DELIVERED 2026-07-17
+Same architecture + hierarchy + layout as ENV-01 sunrise version (central hero pagoda dominant + smaller flanking + terraces + staircases + paw-print banners + cherry blossoms + cloud sea + distant peaks), but converted to DEEP NIGHT scene: large luminous FULL MOON in upper-right sky with silver halo glow, deep midnight-blue starry sky with drifting silver-edged clouds, silver MOONBEAMS through clouds, cool silver moonlight rim on temple exterior + warm amber lantern/window glow spilling from within temple buildings (contrast), pale moonlit cherry blossoms, silver-topped cloud sea with deep blue undersides, optional 1-2 owl silhouettes in distance. **Locked as ENV-06 canonical.**
 
 ### 2. Temple Training Courtyard (Scenes 1-3)
-Large stone-paved central training courtyard within the mountain temple complex. Wooden training dummies + posts arranged in rows for punching exercises. Paw-print banners hanging from tall wooden posts + fluttering gently. Curved tiered pagoda roofs framing all sides + red-lacquered timber pillars + stone lanterns at corners. Distant mountain ridges + cloud sea visible beyond outer wall. Warm golden-amber sunset light + long dramatic shadows across stone tiles. Small stone steps leading up to central raised platform where the Grandmaster oversees training. Cherry-blossom petals occasionally drifting through frame.
+Large stone-paved central training courtyard within the mountain temple complex. Multiple wooden training dummies + posts arranged in ordered rows for punching exercises (visible 8-12 dummies with rope-wrapped strike zones + weathered aged brown wood with impact wear). Paw-print white banners hanging from tall wooden posts flanking both sides of courtyard fluttering gently. Curved tiered pagoda roofs framing all sides + red-lacquered timber pillars + stone lanterns at corners + wooden walkway balconies of surrounding dojo halls + sliding shoji screen doors. Central hero pagoda visible rising in the background above the surrounding buildings. Small groves of cherry blossom trees framing corners with drifting petals. Distant mountain ridges + cloud sea visible beyond outer wall on one side. Warm golden-amber sunset light + dramatic long shadows from every training dummy stretching across the stone tiles in ordered rhythmic pattern. Warm golden dust motes floating in sunbeams.
 
 ### 3. Shuriken Trial Range (Scene 2)
 Long stone courtyard section with a row of large circular wooden target boards mounted on wooden posts, arranged in perfect line. Bullseye rings painted red-and-cream on each board. Paw-print banners flanking the row on tall wooden posts. Same warm golden-amber sunset lighting. Wide alley perspective — cats standing at throwing line in foreground, targets receding in linear perspective.
@@ -361,31 +378,32 @@ Wide establishing of the ancient mountain temple at golden hour with cherry-blos
 
 ## 🎬 SEEDANCE / HIGGSFIELD CLIPS
 
-### Character Asset Sheets (Higgsfield — to be delivered)
-- **SH-01:** SKET Prodigy Disciple — 6-panel character sheet on white seamless
-- **SH-02:** SKET Post-Awakening (headband) — 6-panel character sheet
-- **SH-03:** SKET Grandmaster (inherited armor) — 6-panel character sheet
-- **SH-04:** OLD GRANDMASTER — 6-panel character sheet (full armor + white mustache + white beard)
-- **SH-05:** DOBERMAN LEADER — 6-panel character sheet (spiked club + iron armor)
-- **SH-06:** Doberman Bandit Grunt — 6-panel character sheet
-- **SH-07:** FOT kitten (Scene 5 child form) — 6-panel character sheet
-- **SH-08:** ZEYO kitten (Scene 5 child form) — 6-panel character sheet
-- **SH-09:** SKET Katana (weapon asset) — turnaround
-- **SH-10:** Grandmaster's Armor (armor asset) — full detail sheet
-- **SH-11:** Doberman Leader's Spiked Club — weapon asset
+### Character Asset Sheets (Higgsfield GPT Image 2 — 7-panel model sheets)
+- ✅ **SH-01:** SKET Prodigy Disciple — 7-panel character sheet ⭐ **V2 DELIVERED 2026-07-17** (brown tabby + smooth crown + white gi + black obi + paw-print emblem — locked canonical)
+- **SH-02:** SKET Post-Awakening (headband) — 7-panel character sheet (pending)
+- ✅ **SH-03:** Adult SKET Armored — 7-panel character sheet ⭐ **V2 DELIVERED** (dark iron + crimson accent + winged flare kabuto + katana sheathed at hip, no drawn blade)
+- ✅ **SH-04:** OLD GRANDMASTER — 7-panel character sheet ⭐ **V4 DELIVERED 2026-07-17** (grey tabby elder + long white mustache + white goatee + SAME armor design as adult SKET, more weathered)
+- ✅ **SH-05:** Trainee Ensemble — 8-cat group sheet ⭐ **V3 DELIVERED 2026-07-17** (8 fur color variations of SAME breed as SKET + warm friendly welcoming expression + identical white gi uniform)
+- **SH-06:** DOBERMAN LEADER — 7-panel character sheet (pending)
+- **SH-07:** Doberman Bandit Grunt — 7-panel character sheet (pending)
+- **SH-08:** FOT kitten (Scene 5 child form) — 7-panel character sheet (pending)
+- **SH-09:** ZEYO kitten (Scene 5 child form) — 7-panel character sheet (pending)
+- **SH-10:** SKET Katana (weapon asset) — turnaround (pending)
+- **SH-11:** Doberman Leader's Spiked Club — weapon asset (pending)
 
-### Environment Plates (Higgsfield — to be delivered)
-- **ENV-01:** Mountain Temple Cloud-Sea Establishing (Scene 1 open)
-- **ENV-02:** Temple Training Courtyard (Scenes 1-3)
-- **ENV-03:** Shuriken Trial Range (Scene 2)
-- **ENV-04:** Bamboo Cutting Ground (Scene 3)
-- **ENV-05:** SKET's Room Night Interior (Scene 4)
-- **ENV-06:** Temple Rooftops Night (Scene 4)
-- **ENV-07:** Dark Forest with distant orange glow (Scene 5 open)
-- **ENV-08:** Doberman Bandit Camp with bonfire (Scene 5 main)
-- **ENV-09:** Grandmaster's Death Scene (Scene 5 close / Scene 6 open)
-- **ENV-10:** Silent Camp Moon Aerial (Scene 6 Panel 8)
-- **ENV-11:** Temple Cherry-Blossom Reveal Establishing (Scene 6 ending)
+### Environment Plates (Higgsfield GPT Image 2)
+- ✅ **ENV-01:** Mountain Temple Cloud-Sea Establishing (Scene 1 open) ⭐ **V3 DELIVERED 2026-07-17** (sprawling multi-building temple + central hero pagoda dominant + paw-print banners + cherry blossoms + cloud sea + golden sunrise + god-rays)
+- ✅ **ENV-02:** Temple Training Courtyard (Scenes 1-3) ⭐ **PROMPT DELIVERED 2026-07-17** (stone-paved courtyard + wooden training dummies in rows + paw-print banners flanking + surrounding pagoda buildings + central hero pagoda in background + cherry blossoms + warm sunset with long shadows)
+- ✅ **ENV-06:** Mountain Temple NIGHT Establishing (Scene 4 open) ⭐ **DELIVERED 2026-07-17** (same temple architecture as ENV-01 + full moon + silver moonlight + warm amber lantern interior glow contrast + deep blue night sky)
+- **ENV-03:** Shuriken Trial Range (Scene 2) — pending
+- **ENV-04:** Bamboo Cutting Ground (Scene 3) — pending
+- **ENV-05:** SKET's Room Night Interior (Scene 4) — pending
+- **ENV-07:** Temple Rooftops Night close-up (Scene 4) — pending
+- **ENV-08:** Dark Forest with distant orange glow (Scene 5 open) — pending
+- **ENV-09:** Doberman Bandit Camp with bonfire (Scene 5 main) — pending
+- **ENV-10:** Grandmaster's Death Scene (Scene 5 close / Scene 6 open) — pending
+- **ENV-11:** Silent Camp Moon Aerial (Scene 6 Panel 8) — pending
+- **ENV-12:** Temple Cherry-Blossom Reveal Establishing (Scene 6 ending) — pending
 
 ### Seedance Video Clips (to be delivered scene by scene)
 
@@ -462,26 +480,31 @@ Wide establishing of the ancient mountain temple at golden hour with cherry-blos
 - NO plastic CG sheen, NO glossy 3D-render finish
 - Rich subsurface scattering on fur, subtle sword blade specular highlights, dust particulates in sunbeams
 
-### Character Rules (Universal — inherited from project master rules)
+### Character Rules (Universal — inherited from project master rules) ⭐ UPDATED 2026-07-17
 - ⛔ **NO real cats in scenes** — all cats stylized anthropomorphic (walking upright, wearing clothes/armor)
+- ⭐ **ANIMATED Pixar Puss in Boots STYLIZED CARTOON register** — ⛔ NOT photorealistic, ⛔ NOT hyperreal real-cat photography
 - ⛔ **NO face-to-camera** as default (use back / 3-quarter / profile / silhouette / OTS)
 - ⛔ **NO tears** on any character — grief conveyed via posture, brow, mouth, breath, wide eyes, trembling
-- ⭐⭐⭐ **Crowd RADICAL diversity** — every trainee/guard cat MUST be a different breed with different fur color, face shape, size, features. ⛔ NO clone faces, ⛔ NO cat resembles SKET
-- ⭐⭐⭐ **EVERY TRAINEE CAT WEARS THE FULL COMPLETE UNIFORM** — white gi + black belt + bare feet (⛔ NO partial uniforms, ⛔ NO shirtless, ⛔ NO barefoot mismatches)
-- ⭐ **Crowd cats keep DISCIPLINED FOCUSED emotion** (contrast to SKET's swagger, then contrast to SKET's fear/grief in later scenes)
+- ⭐⭐⭐ **Trainee crowd = SAME BREED as SKET (domestic shorthair tabby-type) with fur color variations only** — NOT radically different breeds. All trainees share SKET's face structure, eye shape, muzzle proportions, body build — only fur color/pattern differs across the ensemble. 8 locked variations: orange tabby / solid black / solid white / solid blue-grey / silver mackerel tabby / cream / tuxedo / calico
+- ⭐⭐⭐ **EVERY TRAINEE CAT WEARS IDENTICAL UNIFORM TO SKET** — white gi + black paw-print emblem on left chest + black obi belt + loose white cotton training pants + bare feet with pink toe pads (⛔ NO partial uniforms, ⛔ NO variations)
+- ⭐⭐⭐ **⛔ ABSOLUTELY NO HAIR TUFT / spiky head hair on any cat** (including SKET, trainees, and Grandmaster) — every crown is smooth-furred with only natural short fur
+- ⭐⭐⭐ **Trainees WARM FRIENDLY WELCOMING soft smile + bright kind eyes** — kind wholesome disciplined register (contrast to SKET's arrogant smug swagger, letting SKET stand out as the aloof cocky one)
 
-### SKET-Specific
-- **Snow-leopard-spotted grey tabby** — dark grey base + charcoal rosette spots
-- Sharp amber-gold almond eyes
-- White samurai gi with leopard-spot fabric echo pattern
+### SKET-Specific ⭐ UPDATED 2026-07-17
+- ⭐ **Rich warm brown tabby** — medium-warm dark brown base with distinct darker brown/black tabby stripes ("M" mark on forehead crown) (⛔ NOT snow-leopard-spotted grey, ⛔ NOT solid brown)
+- ⭐ **Warm amber-gold ROUNDED SOFTER ALMOND eyes** with confident intense gaze (⛔ NOT sharp narrow slit-eyes)
+- ⭐ **White samurai gi with black paw-print emblem on left chest** + black obi belt + loose white training pants + bare feet (⛔ NOT with leopard-spot fabric pattern)
+- ⭐ **⛔ ABSOLUTELY NO HAIR TUFT on head** — smooth-furred crown with only natural short tabby fur "M" pattern visible
 - Default arrogant slouch → post-Scene-5 upright disciplined
-- Signature spiky charcoal head tuft
+- Signature slightly angular sculpted animated Pixar cartoon face structure
 
-### Grandmaster-Specific
-- White drooping mustache + white pointed beard (⭐ THE identifiers)
-- Deep crimson-red lacquered samurai armor + LARGE BRASS PAW-PRINT emblem on kabuto helmet crown
-- Twin brass cat-ear-shaped horns on helmet
-- The armor is unique — no other cat wears it (until inherited by SKET at ending)
+### Grandmaster-Specific ⭐ UPDATED 2026-07-17
+- ⭐ **Grey striped tabby elder** with distinct darker charcoal-grey tabby stripes + cream-white age patches around muzzle
+- ⭐ **LONG WHITE DROOPING MUSTACHE + LONG WHITE POINTED CHIN GOATEE BEARD** (⭐ THE primary identifiers — must be prominently visible in every panel/frame)
+- Wise deep amber-copper rounded almond eyes with gentle age hooding
+- ⭐ **Grandmaster wears the SAME ARMOR DESIGN as adult SKET** (dark iron dominant + crimson-red dot accents + brass paw-print emblem on kabuto crown with WINGED FLARE ornament + dark iron dou with subtle brass rivets + sode with small brass paw-print emblem on outer face + red silk cord obi + kusazuri with red dot accents + kote gauntlets + black-lacquered saya at left hip)
+- Grandmaster's armor shows MORE weathering than SKET's (deeper scratches, more brass patina — reflecting decades of use) but the DESIGN is 100% identical
+- ⛔ NO large curving cat-ear horns on kabuto (just the winged flare around crown emblem)
 
 ### Doberman Rules
 - ⭐ Anthropomorphic **dogs**, NOT cats (cropped ears + docked stub tails + black-and-tan short fur)
@@ -570,18 +593,27 @@ Wide establishing of the ancient mountain temple at golden hour with cherry-blos
 
 ## 📝 SESSION LOG
 
-- **2026-07-14:** Project created. Story script + full 6-scene storyboard delivered. SKET-ORIGIN.md master document written. All character canonicals, environment plates, story beats, locked rules, and clip breakdown established. Story locked. Ready to begin Higgsfield asset generation (character sheets first, then environment plates, then Seedance clips per scene).
+- **2026-07-14:** Project created. Story script + full 6-scene storyboard delivered. SKET-ORIGIN.md master document written. All character canonicals, environment plates, story beats, locked rules, and clip breakdown established. Story locked. Ready to begin Higgsfield asset generation.
+- **2026-07-17:** MAJOR canonical + asset delivery session:
+  - ⭐⭐⭐ **SKET base canonical UPDATED** from "snow-leopard-spotted grey tabby with spiky charcoal head tuft" to "rich warm brown tabby with distinct darker tabby stripes + smooth-furred crown (⛔ NO hair tuft) + warm amber-gold rounded softer almond eyes + slightly angular sculpted animated Pixar cartoon face" — established from adult SKET armored reference image
+  - ✅ **SH-01 Young SKET Trainee** character sheet delivered (V2) — 7-panel layout on white seamless with white gi + black obi + paw-print emblem uniform + smooth crown
+  - ✅ **SH-03 Adult SKET Armored** character sheet delivered (V2 without drawn katana — sheathed at hip only)
+  - ✅ **SH-04 Old Grandmaster** character sheet delivered (V4) — Grandmaster now wears IDENTICAL armor design to adult SKET (dark iron dominant + winged flare kabuto + red dot accents), only more weathered. Grey tabby elder + long white mustache + long white pointed goatee. ⛔ Removed old bulky red-leather armor design
+  - ✅ **SH-05 Trainee Ensemble** character sheet delivered (V3) — canonical UPDATED from "8 radically different breeds" to "8 fur color variations of SAME breed as SKET" + warm friendly welcoming expression register (⛔ NO stern, ⛔ NO smug — contrast to SKET's swagger comes from friendliness). Locked variations: orange tabby / solid black / solid white / solid blue-grey / silver mackerel tabby / cream / tuxedo / calico
+  - ✅ **ENV-01 Mountain Temple Cloud-Sea Establishing** delivered (V3) — sprawling multi-building complex with central hero pagoda dominant + paw-print banners + cherry blossoms + cloud sea + golden sunrise + god-rays
+  - ✅ **ENV-06 Mountain Temple NIGHT Establishing** delivered — same temple architecture as ENV-01 but with full moon + silver moonlight + warm amber interior lantern glow contrast
+  - ✅ **ENV-02 Temple Training Courtyard** prompt delivered — Scenes 1-3 main setting with training dummies + banners + central hero pagoda in background
+  - GPT Image 2 format established as primary character sheet + environment plate model
+  - Fire icon animation asset (test): Kling 3.0 + Seedance 6s loop prompts delivered for standalone fire icon animation (non-SKET tangent)
 
 ---
 
 ## 🚀 NEXT STEPS
 
 **Immediate deliverables pending:**
-1. **Higgsfield character sheets** — start with SKET Prodigy Disciple base (SH-01) then work through the roster
-2. **Higgsfield environment plates** — start with ENV-01 Mountain Temple Cloud-Sea Establishing then work through
-3. **Seedance clips** — begin S1-C01 (temple cloud-sea establishing) once character + env canonical locked
-4. **Grandmaster armor detailed asset** — dedicated sheet for the inherited armor (SH-10) since it's the crown-jewel visual moment
-5. **FOT + ZEYO kitten designs** — small purple-tinted (future FOT) + cyan-blue-tinted (future ZEYO) with OG10-continuity hints
+1. **Higgsfield character sheets** — DOBERMAN LEADER (SH-06) + Doberman Bandit Grunt (SH-07) + FOT/ZEYO kittens (SH-08, SH-09) + SKET Post-Awakening headband (SH-02)
+2. **Higgsfield environment plates** — Shuriken Trial Range (ENV-03) + Bamboo Cutting Ground (ENV-04) + SKET's Room Night Interior (ENV-05) + Temple Rooftops Night close-up (ENV-07) + Dark Forest (ENV-08) + Doberman Bandit Camp (ENV-09) + Grandmaster Death Scene (ENV-10) + Cherry-Blossom Reveal (ENV-12)
+3. **Seedance clips** — begin S1-C01 (cloud-sea temple establishing) using ENV-01 as reference
 
 **Sequence priority:**
 - Scenes 1-2 (temple establishing + shuriken trial) — clean warm-lit establishing register
