@@ -67,8 +67,61 @@
 
 ---
 
+---
+
+## 🎬 ASSEMBLED SEQUENCE (as of 2026-07-16, ~59s cut + ending built)
+
+Reordered from the original draft. Actual running order:
+
+1. **The problem (0–10s)** — neglected/dirty village: broom sweeping own doorstep, rubbish pile + tin can on cobblestone, townsfolk only clean their own porch. (Opening should read as the village **破坏了 / in disrepair**, then heroes solve it together.)
+2. **Heroes witness (~10–13s)** — CCATS/FOT/ECOX (backs to camera) see the mess, disapprove.
+3. **Heroes gather (~13–20s)** — LYCHEE fruit-stall: LYCHEE + KETDONUT + HEARTA + ECOX.
+4. **Build the board (~20–27s)** — FROAK + GST + FOT set up the big bulletin board.
+5. **Board built → banner mounting** — ECOX (at board's LEFT, taller, ⛔ not on a box) holds the ROLLED banner UPRIGHT; LYCHEE runs from behind ECOX, catches the RIGHT side and pulls it LEFT→RIGHT to the board's horizontal middle; HEARTA/KETDONUT watch. Side/90° angle, banner face hidden until reveal.
+6. **Reverse-angle present (~33–37s)** — crowd (kids front nearest board, adults behind, all BACKS to camera) faces the board; SKET presents at the board's right in a low emotive CAT-VOICE (低沉真猫声, no human words).
+7. **SKET summon (8s clip)** — banner pulled open (content soft/not obvious) → camera zooms OUT → SKET rises in FOREGROUND (back to camera), turns to FACE camera but looks OFF (not into lens), big summoning cat-yowl → the 7 heroes HEAR it, pause, TURN to camera, SEE SKET, then SMILE. ⚠️ recurring bug: **duplicate LYCHEE** (start-frame has her on the left; must state she LEAVES the left → only ONE LYCHEE, left becomes HEARTA+KETDONUT only).
+8. **Crowd assembled (~40s)** — full village + heroes, warm group.
+9. **Banner 3-step reveal (11s)** — extreme close-up pans L→R: PICK A PLATFORM (3s) → 1s pan → SHARE THE HEROES (3s) → 1s pan → EARN YOUR REWARD (3s); each icon+word gets a **soft NATURAL warm-gold glow (⛔ not exaggerated)**.
+10. **SKET hands out the 3 papers (3×4s, over-shoulder, same angle, hard cuts)** — SKET faces camera, back to board (board+banner soft BG), tight so no other villagers show. ①PICK A PLATFORM→young farmer (3 papers in RIGHT hand → take 1 → 2 in LEFT). ②SHARE THE HEROES→blacksmith (2 in LEFT → take 1 → 1 in LEFT). ③EARN YOUR REWARD→old grandpa (1 in LEFT → passes with BOTH hands). Paper faces camera; once taken, camera slightly zooms into the paper.
+11. **Happy-ending pull-back (10s)** — START on banner close-up → pull-back + crane UP → reveal OG10 (in front of board, facing camera, SMILING, ⛔ empty hands) + villagers (foreground, backs to camera, chatting/discussing) → up to HIGH BIRD'S-EYE top-down hold. ⚠️ single-i2v drifts/mixes the 10 OG10 identities at small scale → prompt must list all 10 distinct + "⛔ do not mix/merge/drop"; two-frame i2v (banner start + locked bird's-eye still end) is the reliable fix.
+12. **CTA end card** (to build) — warm-gold LAND OF HOPE logo + CTA line + **loh-community-board.vercel.app**.
+
+### Ending direction chosen = **① Storybook → Digital bridge** (banner reveal → hand out the platform/share/reward papers → CTA card).
+
+## 📣 CTA (end card)
+- Reward is framed as **"Become a Community Hero"** — a gold STAR (achievement), NOT money.
+- ⚠️ On-screen ⛔ NO money / $ / coins / tokens / "get paid" (the promo posts on all 7 social platforms; crypto/earning claims get flagged). Underlying real reward per loh-community-board.vercel.app = a **hero token** (on-chain, TON), but the video only shows the star + neutral wording.
+- **CTA line (pending final pick)** — candidates: "Share the heroes. Become one." / "Share. Spread hope. Be a hero." / "Spread the hope. Earn your star." + button **loh-community-board.vercel.app**.
+
+## 📄 THE 3 CTA PAPERS (A4 portrait, aged pale-yellow parchment, storybook)
+- **PICK A PLATFORM** — 7 HAND-DRAWN sketch social icons: X · YouTube · Threads · 小红书 · Facebook · Instagram · TikTok. (⛔ not flat color logos.)
+- **SHARE THE HEROES** — OG10 hand-drawn sketch artwork in a frame + line "Show the world our heroes."
+- **EARN YOUR REWARD** — big GOLD STAR + "Become a Community Hero." ⛔ no coins/money.
+
+## 🎵 MUSIC MAP (per music-suggestion workflow — arc: 破败 → 担忧 → 齐心升温 → 凝聚 → 社区喜悦 → 温柔邀请 → 上扬 CTA)
+- **Problem (0–10s):** melancholic music box / sparse solo piano, wistful, slow minor.
+- **Heroes witness (~10–13s, TURN):** low warm cello enters, subtle swell, hint of resolve.
+- **Gather/build (13–27s):** warm uplifting orchestral, building strings, light hand percussion, folk-adventure, gotong-royong.
+- **Reveal/present (~35s, TURN):** warm arrival swell, soft choir, unity bloom.
+- **Community (37–48s):** joyful warm orchestral, glockenspiel sparkle, feel-good.
+- **Invitation (48–59s):** tender warm strings → rising uplifting finish.
+- **CTA card:** final warm anthemic swell / logo sting.
+- Overall search: `heartwarming animated-film score, storybook orchestral folk, Pixar-style, hopeful, no vocals`.
+- **Riser before music:** search `magical/whimsical riser`, `orchestral swell uplift`, `riser with impact/boom` (⛔ avoid tension/horror/EDM risers); land the riser's impact on the music's first downbeat.
+
+## 🔑 KEY LOCKED RULES (this session)
+- ⛔ **No cross-clip references** in prompts (Higgsfield/Seedance has no memory) — describe every transition-in as a self-contained visible action.
+- Every character in a shot needs its **own image ref** (+ environment ref), within the 9-ref cap; when a start-frame image already contains them, that frame IS the ref.
+- **Ask, don't guess** — when a shot detail is ambiguous, ask first.
+- Reverse-angle board shot: mirror BOTH crowd arrangement AND environment.
+- Higgsfield safety filter: ⛔ `bodice/blouse/slender/thick forearms`, ⛔ smoking `pipe`, ⛔ all-adult-women lineups — mix genders, use "modest fully-covering", "wholesome G-rated cartoon".
+- ⛔ Characters hold NOTHING unless the user says so (OG10 default empty hands even if their ref sheet shows props).
+
 ## 📝 STATUS
-- **2026-07-14:** Project created from user script brief. Village Fountain Plaza env reference received. Next: build Seedance clips scene by scene (start with Opening S1-A crane-down one-take).
+- **2026-07-14:** Project created from script brief. Village Fountain Plaza env reference received.
+- **2026-07-16:** ~59s cut assembled (problem → gather → build → present). Ending built: banner 3-step reveal + SKET hands out 3 papers + happy-ending bird's-eye pull-back. 3 CTA papers generated (A4 aged parchment). Reward = "Community Hero" gold star (⛔ no money on-screen). Music map + CTA candidates drafted.
 
 ## 🚀 NEXT
-- Build **S1-A** (sky→mountain→town continuous crane-down) first, then proceed down the shot plan one clip at a time.
+- Lock the **CTA end-card** (logo + final CTA line + loh-community-board.vercel.app).
+- Fix **OG10 identity drift** on the bird's-eye happy-ending (two-frame i2v with locked bird's-eye still as end frame).
+- Score the cut to the music map + add the riser before the music hit.
