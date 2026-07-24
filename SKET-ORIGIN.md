@@ -3,9 +3,9 @@
 **Project:** SKET ORIGIN
 **Type:** Animated Short Film (Pixar/Disney 3D + Puss in Boots: The Last Wish painterly register)
 **Universe:** Part of Land of Hope / Chill Gallery / OG10 Web3 brand (Samurai Cats subline)
-**Status:** In pre-production — story locked, storyboard delivered, ready for asset generation
+**Status:** IN PRODUCTION — full film built shot-by-shot (Scenes 1–6 + coronation ending), most clips generated & iterated
 **Duration Target:** 1:30 – 3:00 minutes
-**Last Updated:** 2026-07-14
+**Last Updated:** 2026-07-24
 
 > This is the SINGLE SOURCE OF TRUTH for all SKET ORIGIN content. Every asset, prompt, scene, character detail, and locked rule for SKET ORIGIN goes here. Do NOT split into multiple files.
 
@@ -594,6 +594,7 @@ Wide establishing of the ancient mountain temple at golden hour with cherry-blos
 ## 📝 SESSION LOG
 
 - **2026-07-14:** Project created. Story script + full 6-scene storyboard delivered. SKET-ORIGIN.md master document written. All character canonicals, environment plates, story beats, locked rules, and clip breakdown established. Story locked. Ready to begin Higgsfield asset generation.
+- **2026-07-20 → 2026-07-24:** FULL FILM PRODUCTION BUILD — the whole picture assembled shot-by-shot in Higgsfield (GPT-2 stills) + Seedance 2.0 (video), delivered/iterated one clip at a time from mocap refs + start-frame images. See the **PRODUCTION BUILD LOG** and **DIALOGUE / SUBTITLE SHEET** sections added below.
 - **2026-07-17:** MAJOR canonical + asset delivery session:
   - ⭐⭐⭐ **SKET base canonical UPDATED** from "snow-leopard-spotted grey tabby with spiky charcoal head tuft" to "rich warm brown tabby with distinct darker tabby stripes + smooth-furred crown (⛔ NO hair tuft) + warm amber-gold rounded softer almond eyes + slightly angular sculpted animated Pixar cartoon face" — established from adult SKET armored reference image
   - ✅ **SH-01 Young SKET Trainee** character sheet delivered (V2) — 7-panel layout on white seamless with white gi + black obi + paw-print emblem uniform + smooth crown
@@ -605,6 +606,61 @@ Wide establishing of the ancient mountain temple at golden hour with cherry-blos
   - ✅ **ENV-02 Temple Training Courtyard** prompt delivered — Scenes 1-3 main setting with training dummies + banners + central hero pagoda in background
   - GPT Image 2 format established as primary character sheet + environment plate model
   - Fire icon animation asset (test): Kling 3.0 + Seedance 6s loop prompts delivered for standalone fire icon animation (non-SKET tangent)
+
+---
+
+## 🎬 PRODUCTION BUILD LOG (2026-07-20 → 2026-07-24)
+
+Whole film assembled shot-by-shot. Workflow per clip: mocap `.mp4` or GPT-2 start-frame → Seedance prompt (time-coded, ≤4000 chars, whole-second durations) → extract frames → review → iterate. Delivery = 一句话 Mandarin summary → 📌 refs table → English prompt code block.
+
+### New / updated canonical designs locked this build
+- **Adult SKET (grown, few years older)** — young-adult brown-tabby; taller, leaner LONGER face, sharper jaw, calm tempered amber eyes (⛔ no kitten face, ⛔ no cocky smirk). Two wardrobes: (a) **ceremonial** = cream-white kimono + black paw-crest + charcoal **hakama**, bare head; (b) **training** = same cream-white **karategi** + black belt as young SKET (for the growth match-cut).
+- **Grandmaster's KABUTO — design LOCK (white-BG 4-view turnaround made)** — dark iron multi-plate dome + **SMALL golden WINGED PAW-PRINT maedate crest** + dark-red-laced shikoro neck guard. ⭐⭐ ⛔ NO large curved horns / kuwagata / antlers; ⛔ no cat-ears ON the empty helmet (the ears are the wearer's). Helmet kept morphing into buffalo-horns in video → the turnaround exists specifically to lock it.
+- **DOBERMAN BOSS — two weapon variants**: (1) big **spiked wooden CLUB** (main fight); (2) **jagged CURVED sword** version (used for Scene 6 throw that kills the Master). BOSS is **one full head taller** than the Master.
+- **Bandit lineup** — 5 same-height Doberman bandits (scar-muzzle / notched-ear / eye-patch / broken-fang / head-wrap) each with a distinct crude weapon (cleaver / spiked mace / hooked spear / notched curved sword / axe) + the towering spiked-club/horn BOSS. Black-and-tan, ragged scavenged armor. ⚠️ Higgsfield-safe wording required ("cartoon Doberman characters", ⛔ no blood/wounds).
+- **Kid FOT (spiky dark-purple hair, purple wrap top) + Kid ZEYO (spiky black hair, grey-white top)** — captives tied to posts. Rule: **⛔ tears never shown**; posts stand **taller** than the boys; **stay tied the entire time** (never freed on-screen).
+- **Props** — four-pointed steel **shuriken** (dark gunmetal, red center ring); rope-bound **wooden striking post**; green **bamboo bundle**; **traveler's furoshiki bundle** (faded indigo+oatmeal sashiko cloth, rope straps, bedroll, bamboo flask, paw-print stamp); the **Master's stone HERO STATUE**.
+- **Master's memorial STATUE** — ⭐ ALL one uniform weathered **grey granite** (helmet, armor, face AND the long beard all stone — ⛔ NOT bronze, ⛔ beard NOT white), noble standing pose (both paws on the pommel of a planted sheathed katana, chin lifted), on a tall stone pedestal w/ paw-print emblem + offerings (flowers, incense). Stands **in** the temple courtyard (⛔ not a blurred-BG close-up).
+
+### Shot-by-shot beats delivered (in film order)
+- **Scene 2 — Shuriken trial**: cats throw shuriken in unison (mocap-matched) → land near center → SKET yawns (「つまらん…」) & carelessly flings 3 stacked shuriken **right-hand, wind-up-beside-head → forward snap** (⛔ not a downward toss; grip = pinched flat, points forward) → EXTREME close-up: 3 shuriken embed **dead-center, ~10° shallow/flat into the wood** (⛔ not standing 90° vertical), each biting in, ⛔ not shattering the prior.
+- **Scene 3 — Talent Without Discipline**: A/B/C trainees cut bamboo as **3 hard-cut shots** — **A** blade jams & stops (bamboo intact, arms jar) / **B** clean **diagonal** slice, top slides & topples whole (⛔ no shatter) / **C** blade **bounces off**, bamboo **undamaged**, he stumbles. Then SKET (MC): serious, 1st cut severs, follow-ups too fast to see; his slice **pulverizes** the bamboo, debris blasts the ringed 6 trainees down **simultaneously** (⛔ no delay). Grandmaster steps in, scolds; SKET scoffs, flings his sword **out of frame right**, walks off. Master starts head-up → tilts head **down** watching SKET the whole time; SKET back-to-camera. Master **one head taller**, ⛔ empty scabbard when he holds the drawn blade.
+- **Scene 4 — Leaving the Temple**: night room (bag already packed) → cinch bag → grab katana **off the table** (⛔ not a wall) → tuck in belt → slide shoji open L+R → **ninja spring straight UP, vanish leaving only an afterimage** (⛔ jump up, not down). Worm's-eye "bag swings up to shoulder → fills the whole frame" transition-out. Rooftop: side-tracking **ninja run, arms trailing straight back**, pillar-over-lens wipe. 4 trainees **drop from top of frame, land fully, THEN speak** the plea; SKET faces them, serious/angry, snorts «フン», says the 井の中の蛙 line, then springs up as a **clean sharp black silhouette** out of top of frame. Gate escape: 2 flanking guards + 2 far fire-lanterns; SKET on the eaves flicks a **stone (shuriken-style throw)** that **clangs the far brazier itself** → guards leave posts → he bursts out the gate → forest beyond. Jungle: front-facing tree-hop, firelight hits his face, he turns toward it.
+- **Scene 5 — The Bandit Camp**: reveal of tied ZEYO/FOT ringed by bandits (mocap zoom-outs, mirror-aware L/R). SKET on a tree limb, worm's-eye OTS, narrows eyes, paw drifts to hilt (⛔ not drawn yet), 6 bandits converge. Fights: knocks **3** down (Higgsfield-safe, ⛔ bloodless); 3 leap, he releases a **white-blue crescent sword-energy wave** that blasts them back. Confront the BOSS (hard-cut reveal, BOSS one head taller). **Impact fight** w/ speed-ramp: 1st club blow (2-hand) blocked → slow-mo shockwave → 2nd (right-hand) connects → SKET blasted **straight back (⛔ no tumbling)** into a tree. Low-angle "boss looms, shadow-hammer descends, SKET weak/hurt flinch, blow never lands — shadow fills frame". **Master saves**: catches the club overhead (SKET shocked behind, slowly lowers his paws realizing his master came); deadlock grind sparks → «ハッ!» shove sends the club/wielder **toppling toward the camera**; blocks, gets **blasted back but lands steady on both feet**; two exchanges (parry / duck); **finisher** = slow-mo pivot → snap dash **past** the boss, one horizontal arc across his armored waist, ends behind him → boss collapses. **Master's death**: walking back toward SKET, guard down; the fallen boss (lying, ⛔ no club in frame) grabs the fallen **jagged bandel sword** and **throws it lying down (shuriken-style wind-up, ⛔ not a push)**; it spins in **along the camera axis**, punches **through his back armor plate, tip out the front toward camera** (⛔ armor-only, no blood); Master freezes, then slow tragic collapse, his own katana slips from his **right** paw beside him.
+- **Scene 6 — A New Beginning**: TOP-DOWN kneel — SKET at frame RIGHT (Master's LEFT side), one paw on the Master's chest, the jagged blade in the chest armor, Master's right paw open & empty (his katana beside it, frame LEFT). Master **one head taller/longer** lying down; SKET dusty; **tears allowed** (the one scene that breaks the ⛔-no-tears rule). 12s death clip: 「師匠…！」→ Master smiles, weakly lays his paw over SKET's → speaks **very slowly** both lines → **only after finishing** his paw slips off & eyes close → SKET realizes → tears come → slow zoom-out. Then a 10s crane-up from the silent camp to the full moon. **Montage** = time-lapse "world at 20x, SKET at normal speed" training on the striking post (serious/humble face); **growth = fade/dissolve match-cut** young→adult mid-strike while seasons race. Jungle look-back mock (「楽勝だ。」). **4-season x20 time-lapse** on the eternal STONE statue. **Coronation** (final): adult SKET in armor, bare head, walks the memorial-hall aisle between two rows of 20+ grown samurai cats (dais displays helmet + armor + horizontal katana) → takes the winged KABUTO → **turns the helmet in his paws to orient it** → dons it → **turns to face the hall** → rows bow in unison → single deep temple bell → freeze on the new grandmaster's face. Helmet **must match the 4-view turnaround exactly** (⛔ never becomes horns).
+
+### Key production rules learned this build (see also /memory)
+- **Be VERY specific with geometry** — always spell out camera side, each character's facing, L/R of frame (and the mirror on reverse angles), near/far & resulting scale, who occludes whom, which hand, what must stay off-frame. Implicit = the model guesses wrong.
+- **Reference list must be clear** — one image, one purpose; if a start-frame already holds everything, say "just use this one." Only list refs the user actually has.
+- **⛔ NO tears anywhere EXCEPT the Master's death scene** (the one deliberate exception).
+- **Realistic physics** — proportional, natural, matched sound; bamboo cuts clean-diagonal (⛔ no shatter), shuriken embed shallow ~10° (⛔ not vertical), knockbacks fly straight (⛔ no tumbling).
+- **Higgsfield NSFW-safe wording** for the bandit/violence scenes — "cartoon/G-rated family action", armor-plate-only impacts, ⛔ no blood/wounds/tied-child-rope phrasing (use "loop of rope resting around", "young characters").
+- **All SKET-story voices = JAPANESE (human register)**, ⛔ no real cat sounds anywhere; ⛔ no subtitles burned by Seedance (EN subs added in post).
+
+---
+
+## 🗣️ COMPLETE DIALOGUE / SUBTITLE SHEET (JP audio · EN subtitle)
+
+Film-order. Japanese = spoken/voiced in Seedance; English = burned-in during EDIT (⛔ Seedance itself renders no subtitles). All human register, ⛔ no real cat vocalizations.
+
+| Scene | Speaker | 🇯🇵 Japanese (audio) | 🇬🇧 English (subtitle) |
+|---|---|---|---|
+| S2 Shuriken | Grandmaster | 投げ！ | Throw! |
+| S2 careless throw | SKET (yawning) | つまらん… | How boring… |
+| S3 scold | Grandmaster | もうよせ、スケット。 | Enough, SKET. |
+| S3 scold | Grandmaster | 規律なき力は、ただの刃だ。 | Power without discipline is nothing but a blade. |
+| S3 retort | SKET | フン。ついてこれないのは、そいつらが弱いだけだ。俺には関係ない。 | Hmph. If they can't keep up, they're just weak. It's nothing to do with me. |
+| S4 rooftop plea | Trainee (orange) | 行くな！師匠はあれほどお前に目をかけてくださった…このまま去れば、きっと悲しまれるぞ！ | Don't go! The Master cared for you so much… if you leave like this, it will break his heart! |
+| S4 rooftop plea | Trainee (white) | 残って、一緒に稽古を続けよう！ | Stay — let's keep training together! |
+| S4 mock | SKET | フン。この壁の中で一生を終えるのか。所詮、井の中の蛙よ。 | Hmph. Will you spend your whole lives behind these walls? You're nothing but frogs in a well. |
+| Jungle | SKET | 楽勝だ。 | Too easy. |
+| S5 camp | ZEYO & FOT | 助けて！ | Help us! |
+| S5 fight | Master (kiai) | ハッ！ | *(kiai shout — no subtitle)* |
+| S6 death | SKET | 師匠…！ | Master…! |
+| S6 death | Grandmaster | 真の強さとは…他者を倒すことではない… | True strength… is not about defeating others… |
+| S6 death | Grandmaster | …守ることを、選ぶことだ… | …it is choosing to protect them. |
+
+**Alt lines on file:** SKET boredom — 「退屈だ…」(I'm so bored) / 「こんなの、楽勝だ。」(This is too easy). SKET mischief scene — 「フッ」(smug chuckle) + summons a shuriken.
 
 ---
 
